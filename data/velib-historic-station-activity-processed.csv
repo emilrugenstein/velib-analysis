@@ -1,0 +1,1385 @@
+station_name,station_geo,capacity,total_activity,count
+Rouget de Lisle,"48.76462,2.40712",35,4208.0,7866
+Place Paul Eluard,"48.76720,2.41450",19,2011.0,7866
+Conservatoire de Musique,"48.77094,2.40340",25,2358.0,7866
+Camille Risch - Paul Armangot,"48.77470,2.37369",25,3001.0,7866
+Parc de Sceaux - Centre-Ville,"48.77695,2.29572",33,3805.0,7866
+Balzac - Olympes de Gouges,"48.77850,2.40068",28,5322.0,7866
+station formation alfortville,"48.77874,2.41977",1,0.0,5
+André Theuriet - Blagis,"48.77977,2.31305",30,5677.0,7866
+Gare de Robinson,"48.77993,2.28183",30,2693.0,7866
+Edouard Tremblay - Julian Grimau,"48.78138,2.37235",30,3276.0,7866
+Général Leclerc - Bièvre,"48.78241,2.31667",25,3146.0,7866
+Youri Gagarine - Commune de Paris,"48.78243,2.39397",33,8354.0,7866
+Lebrun - Colonel Fabien ,"48.78267,2.38132",27,3026.0,7866
+Place Aimé Césaire,"48.78319,2.24291",27,1414.0,7866
+Stalingrad - Henri Luisette,"48.78363,2.36694",26,3987.0,7866
+Youri Gagarine - Karl Marx,"48.78448,2.35908",22,2781.0,7866
+Karl Marx,"48.78453,2.36467",16,1451.0,7866
+Les Blagis,"48.78520,2.30253",27,2848.0,7866
+Marc Sangnier - Division Leclerc,"48.78600,2.32996",24,3546.0,7866
+Vanne - Saussaies,"48.78640,2.33885",20,1427.0,7866
+République - Auguste Perret,"48.78695,2.35186",30,1871.0,7866
+Place Centrale ,"48.78740,2.22788",22,1191.0,7866
+Camille Groult - Guy Môquet,"48.78748,2.39767",22,3934.0,7866
+Tertres - Fontaine,"48.78755,2.30624",28,1540.0,7866
+Maxime Gorki - Louis Aragon,"48.78910,2.36839",20,4947.0,7866
+Place de l'Europe,"48.78914,2.42848",24,2339.0,7866
+Rond-point du Dr Albert Schweitzer,"48.78981,2.31439",22,2579.0,7866
+Gabriel Péri - Danielle Casanova,"48.79011,2.40258",20,3486.0,7866
+Liberté - Vert-de-Maisons,"48.79015,2.43286",20,2118.0,7866
+Place Saint-Just,"48.79038,2.38952",22,7038.0,7866
+Hôtel de Ville de Fontenay-aux-Roses,"48.79084,2.28715",34,2362.0,7866
+Marx Dormoy - Château Sainte-Barbe,"48.79178,2.29786",22,1499.0,7866
+Place de l'Eglise,"48.79192,2.39506",28,6810.0,7866
+Eugène Varlin - Place de la Paix,"48.79286,2.36309",23,3464.0,7866
+Parc Départemental des Hautes-Bruyères,"48.79346,2.35090",30,4476.0,7866
+Place de la Division Leclerc,"48.79382,2.27311",35,1859.0,7866
+Place Eustache Deschamps,"48.79386,2.33664",20,3540.0,7866
+Aristide Briand - Gare de Bagneux,"48.79387,2.32115",22,4158.0,7866
+Génie - Mozart,"48.79490,2.37342",19,3216.0,7866
+Guy Môquet - Parvis Georges Marchais,"48.79519,2.35943",30,2811.0,7866
+Carnot - Pâquerettes,"48.79593,2.42618",26,2990.0,7866
+Louis Pasteur - Albert Petit,"48.79626,2.31729",31,3301.0,7866
+Jules Guesde - Pont du Port à l'Anglais,"48.79629,2.41721",30,3362.0,7866
+Maxime Gorki - Paul Vaillant-Couturier,"48.79674,2.36833",20,6111.0,7866
+Henri Ravera - Gabriel Péri,"48.79722,2.30212",30,3614.0,7866
+Concorde - Stalingrad,"48.79858,2.38213",35,9617.0,7866
+Gare Arcueil - Cachan,"48.79982,2.32817",26,4508.0,7866
+Mairie de Clamart,"48.80061,2.26215",33,3391.0,7866
+Paul Vaillant-Couturier - Gare RER,"48.80108,2.40210",26,7856.0,7866
+Place de la Gare,"48.80253,2.42750",46,5511.0,7866
+Stalingrad - Germaine Tailleferre,"48.80257,2.37867",28,8142.0,7866
+Gare RER - Malleret-Joinville,"48.80294,2.42531",20,4195.0,7866
+Quai Jules Guesde - Saint-Simon,"48.80391,2.40897",30,1053.0,2951
+Les Juilliottes,"48.80431,2.44374",21,4336.0,7866
+Victor Hugo - Ecoles,"48.80476,2.41804",25,5307.0,7866
+Amédée Huon - Fort d'Ivry,"48.80513,2.38849",31,6702.0,7866
+Gare de Chaville Rive Gauche,"48.80516,2.18828",18,657.0,7866
+LCL Campus - Place Oscar Niemeyer,"48.80534,2.36398",37,7569.0,7866
+Jean Marin Naudin - Stalingrad,"48.80571,2.32020",30,3451.0,7866
+Paul Doumer - Stalingrad,"48.80652,2.33689",24,5143.0,7866
+Charles Gide - Fort de Bicêtre ,"48.80719,2.35398",30,3918.0,7866
+Val-Fleury,"48.80767,2.24072",23,2289.0,6711
+Verdun - Carnot,"48.80844,2.37380",28,9394.0,7866
+Hôtel de Ville de Chaville,"48.80887,2.18813",20,1066.0,7866
+11 Novembre 1918 - 8 Mai 1945,"48.80890,2.53824",36,133.0,7866
+Gare de Laplace,"48.80893,2.33495",43,4378.0,7866
+Stade Auguste Delaune,"48.80896,2.43452",21,5402.0,7866
+Raspail - Manufacture des Oeillets,"48.80945,2.39030",32,7959.0,7866
+Fontainebleau - Edmond Michelet,"48.80956,2.36269",45,8572.0,7866
+Charentonneau - Maisons Alfort,"48.80993,2.44329",20,4011.0,7866
+Les Planètes ,"48.80998,2.45809",16,2071.0,7866
+Raspail - Albert Schweitzer,"48.81032,2.34396",28,4042.0,7866
+Place de la vache noire,"48.81041,2.32706",25,7917.0,7866
+Mairie d'Ivry-sur-Seine,"48.81057,2.38428",53,10014.0,7866
+Molière - République,"48.81112,2.31457",30,8416.0,7866
+Lampes,"48.81152,2.40179",43,6604.0,7866
+Marne - Germain Dardan,"48.81154,2.30307",22,7509.0,7866
+Mairie du Kremlin-Bicêtre,"48.81192,2.35702",25,6129.0,7866
+Place Jules Ferry,"48.81211,2.32584",28,5930.0,7866
+Place Jean-Baptiste Clément,"48.81240,2.36171",25,8228.0,7866
+Parvis Robert Schuman - Roger Salengro,"48.81266,2.19218",24,908.0,7866
+Vladimir Ilitch Lénine - Andrée Chedid,"48.81320,2.33215",31,4882.0,7866
+Arthur Auger - Jean Jaurès,"48.81374,2.30693",26,3924.0,7866
+Hôtel de Ville de Champigny sur Marne,"48.81381,2.50968",21,1303.0,7866
+Gare de Clamart,"48.81384,2.27228",14,3910.0,7866
+Gare RER - Maurice Grandcoing,"48.81388,2.39243",37,5902.0,7866
+Place Marcel Cachin,"48.81411,2.39091",32,5880.0,7866
+Henri Barbusse - Stalingrad,"48.81418,2.28729",16,4707.0,7866
+Gare RER de Gentilly,"48.81428,2.34103",30,4550.0,7866
+Roger Salengro - Fontainebleau,"48.81455,2.36117",25,7346.0,7866
+ Place Léon Gambetta,"48.81461,2.40293",26,5224.0,7866
+Place de l'Insurrection d'Août 1944 ,"48.81478,2.39807",30,8740.0,7866
+Ecole Vétérinaire,"48.81489,2.42244",36,6646.0,7866
+Vanne - Général de Gaulle,"48.81501,2.32832",25,924.0,2385
+Marne - Charles de Gaulle,"48.81507,2.41217",27,8290.0,7866
+Place Mongolfier,"48.81516,2.45929",39,3878.0,7866
+Guy Môquet - Etienne Dolet,"48.81527,2.29808",23,6408.0,7866
+Estienne d'Orves - Henri Ginoux,"48.81539,2.32089",31,5118.0,7866
+Verdier - République,"48.81540,2.31739",29,6646.0,7866
+Barbès - Monique Maunoury,"48.81553,2.36872",40,8381.0,7866
+Charles Frérot - Albert Guilpin,"48.81558,2.35050",30,7969.0,7866
+Danielle Casanova - Ledru-Rollin,"48.81578,2.38326",28,9838.0,7866
+Pierre et Marie Curie - Maurice Thorez,"48.81580,2.37680",27,8559.0,7866
+Verdier - Jean Jaurès,"48.81614,2.31236",33,6521.0,7866
+Mazagran - Pierre de Coubertin,"48.81622,2.34423",15,4381.0,7866
+Larmeroux - Baudelaire,"48.81694,2.28099",30,5371.0,7866
+Louis Rolland - République,"48.81711,2.31931",26,8426.0,7866
+Porte d'Italie,"48.81716,2.36024",13,4877.0,7866
+Amaury Duval - Gabriel Péri,"48.81719,2.32384",36,4371.0,7866
+Cimetière Communal,"48.81770,2.26093",24,3589.0,7866
+Pierre Brossolette - 12 Février 1934,"48.81770,2.30761",25,6942.0,7866
+Pont De Charenton,"48.81797,2.41995",18,5652.0,7866
+Louis Lejeune - Barbès,"48.81807,2.32670",25,5671.0,7866
+Lucie Aubrac - Fort,"48.81814,2.27118",30,3367.0,7866
+Place Tony de Graaff,"48.81816,2.24581",42,5123.0,7866
+Place Jean Ferrat,"48.81849,2.37442",25,7490.0,7866
+Gare SNCF Vanves-Malakoff,"48.81900,2.29215",51,6822.0,7866
+Westermeyer - Paul Vaillant-Couturier ,"48.81912,2.39666",25,11411.0,7866
+Saint-Vincent - Verdun,"48.81921,2.25401",34,5940.0,7866
+Gare de Bellevue,"48.81924,2.22953",20,1840.0,7866
+Place du 14 Juillet,"48.81927,2.30120",22,5288.0,7866
+Jules Guesdes - Général de Gaulle,"48.81931,2.27893",24,3377.0,7866
+Jourdan - Stade Charléty,"48.81943,2.34334",60,9875.0,7866
+Jourdan - Cité Universitaire,"48.81990,2.33970",39,9500.0,7866
+Italie - Jardin Joan Miro,"48.81991,2.35929",26,9575.0,7866
+Gare RER - Canadiens,"48.81995,2.46418",45,5072.0,7866
+Roger Salengro - Général de Gaulle,"48.82003,2.48468",27,2932.0,7866
+Place du Docteur Yersin,"48.82010,2.37256",50,6017.0,7866
+Romain Rolland,"48.82022,2.32341",25,3980.0,7866
+Place de Verdun,"48.82028,2.47377",40,2922.0,7866
+Stade Georges Carpentier,"48.82048,2.36683",40,8927.0,7866
+Hippodrome Paris-Vincennes,"48.82048,2.44627",42,2517.0,7866
+Gouthière - Poterne des Peupliers,"48.82051,2.35134",33,5734.0,7866
+Square du Carrefour de l'Insurrection,"48.82086,2.29111",23,5068.0,7866
+Moulin de la Pointe,"48.82093,2.35632",22,4964.0,7866
+David Weill - Parc Montsouris,"48.82109,2.33373",22,8415.0,7866
+Pierre Joseph Desault,"48.82110,2.37878",19,6305.0,7866
+Aristide Briand - Place de la Résistance,"48.82124,2.25110",25,7882.0,7866
+Liard - Amiral Mouchez,"48.82142,2.34217",14,7887.0,7866
+Jean Jaurès - Salvador Allende,"48.82148,2.30266",43,6916.0,7866
+Place du Maréchal de Lattre de Tassigny,"48.82171,2.28534",27,7697.0,7866
+Pierre Brossolette - Adolphe Pinard,"48.82177,2.31316",24,7927.0,7866
+Porte d'Ivry,"48.82177,2.36887",50,8649.0,7866
+Grande Rue - Europe,"48.82181,2.20588",25,2227.0,7866
+Place Aristide Briand,"48.82189,2.41300",35,9303.0,7866
+Choisy - Malmaisons,"48.82192,2.36335",25,9179.0,7866
+Cimetière de Montrouge,"48.82201,2.32219",58,5329.0,7866
+Jourdan - Monticelli,"48.82203,2.32910",30,8292.0,7866
+Brillat-Savarin - Küss,"48.82220,2.35042",21,5830.0,7866
+Verdun - Adrien Damalix,"48.82223,2.42153",26,7260.0,7866
+Charles de Gaulle - Plateau de Vanves,"48.82233,2.29857",33,5211.0,7866
+Le Brix et Mesmin - Jourdan,"48.82234,2.32786",21,5776.0,7866
+Pyramide - Ecole du Breuil ,"48.82238,2.45869",34,2333.0,7866
+Place de Rungis,"48.82246,2.34738",32,11699.0,7866
+Quai Marcel Boyer - Victor Hugo,"48.82256,2.39204",29,11145.0,7866
+Boutroux - Porte de Vitry,"48.82263,2.37774",49,5917.0,7866
+Victor Cresson - Telles de la Poterie,"48.82270,2.26865",31,5940.0,7866
+Porte d'Orléans,"48.82276,2.32493",48,11749.0,7866
+ Jean Bleuzen - Square du 11 Novembre,"48.82326,2.29652",49,5481.0,7866
+Ivry - Simone Weil,"48.82328,2.36591",18,5873.0,7866
+Place Jean Delay,"48.82332,2.35434",35,8443.0,7866
+Jean Monnet - Iles,"48.82339,2.24971",32,4830.0,7866
+République - Louis Loucheur,"48.82355,2.51019",37,929.0,7866
+Vistule - Choisy,"48.82366,2.36157",33,9788.0,7866
+Adolphe Pinard - Victor Hugo,"48.82368,2.30778",52,5154.0,7866
+Mairie d'Issy,"48.82377,2.27231",41,8803.0,7866
+Place Jacques Madaule,"48.82393,2.26069",25,5346.0,7866
+Maurice d'Ocagne - General Maudhuy,"48.82414,2.31588",30,5476.0,7866
+Place de la Porte de Châtillon,"48.82425,2.31863",59,8499.0,7866
+Pierre Lefaucheux - Traversière,"48.82435,2.24179",35,4889.0,7866
+Hôtel de Ville,"48.82436,2.21310",32,3262.0,7866
+Regnault - Patay,"48.82436,2.37707",63,9527.0,7866
+Gravelle - Route du Bac,"48.82441,2.41845",51,5589.0,7866
+Nationale - Marcel Duchamp,"48.82464,2.36780",23,6460.0,7866
+Ivry - Baudricourt,"48.82470,2.36311",20,6365.0,7866
+René Coty - Parc Montsouris,"48.82479,2.33612",55,8555.0,7866
+Square Etienne Jarousse,"48.82485,2.29259",25,6704.0,7866
+Bruneseau - Quai d'Ivry,"48.82495,2.38857",48,7302.0,7866
+Sarrette - Général Leclerc,"48.82503,2.32641",22,8631.0,7866
+Chemin de Bretagne,"48.82515,2.25936",29,4226.0,7866
+Marc Sangnier - Porte de Vanves,"48.82522,2.31071",21,4796.0,7866
+Place de l'Europe,"48.82530,2.39457",17,4525.0,7866
+Marcel Yol - Jullien,"48.82538,2.28724",30,5473.0,7866
+Dom-Pérignon - Gravelle,"48.82548,2.40988",50,6853.0,7866
+Italie - Tolbiac,"48.82557,2.35762",21,10531.0,7866
+Bobillot - Tolbiac,"48.82560,2.35020",33,11718.0,7866
+Eugène Oudiné - Dessous Des Berges,"48.82564,2.37502",44,7733.0,7866
+Auguste Cain - Jean Moulin,"48.82577,2.32104",40,5227.0,7866
+Pierre Grenier - Pont de Billancourt,"48.82580,2.24880",21,5911.0,7866
+Choisy - Tolbiac,"48.82591,2.36024",26,9631.0,7866
+Boussingault - Tolbiac,"48.82604,2.34218",28,12303.0,7866
+Wurtz - Tolbiac,"48.82631,2.34459",28,10157.0,7866
+Colonel Monteil - Brune,"48.82650,2.30927",19,5055.0,7866
+Didot - Mariniers,"48.82651,2.31314",35,8533.0,7866
+Place des Marseillais,"48.82664,2.40593",37,8412.0,7866
+Sibelle - Alésia,"48.82670,2.33850",25,7037.0,7866
+Olympiades,"48.82676,2.36509",36,13852.0,7866
+Kléber - Gouverneur Général Eboué,"48.82689,2.27234",24,4982.0,7866
+Esplanade du Foncet - Camille Desmoulins,"48.82709,2.26069",28,3817.0,7866
+Cours de l'Ile Seguin - Parc Billancourt,"48.82714,2.23423",29,5169.0,7866
+Parvis Corentin Celton,"48.82747,2.27843",55,10832.0,7866
+Place des Droits de l'Enfant,"48.82748,2.33192",24,11467.0,7866
+Nationale - Place Jules Guesde,"48.82754,2.24161",23,8238.0,7866
+Butte aux Cailles - Esperance,"48.82759,2.34922",36,7040.0,7866
+Jean Moulin - Place Victor et Hélène Basch,"48.82765,2.32620",41,12363.0,7866
+Abbé Carton - Plantes,"48.82767,2.32092",25,5568.0,7866
+Lac Daumesnil - Saint-Maurice,"48.82775,2.41837",50,6305.0,7866
+Jean Colly - Tolbiac,"48.82782,2.37055",36,10735.0,7866
+Porte de Vanves,"48.82801,2.30569",32,9961.0,7866
+Porte de la Plaine,"48.82805,2.29243",35,3751.0,7866
+Parc de Choisy,"48.82816,2.35851",25,9010.0,7866
+Quai Panhard et Levassor,"48.82837,2.38427",57,8934.0,7866
+M.- A. Lagroua Weill-Hallé -  F. Dolto,"48.82860,2.38022",60,12559.0,7866
+Bobillot - Moulin des Prés,"48.82866,2.35302",28,9320.0,7866
+Point du Jour - Jean Jaurès,"48.82875,2.24591",26,8184.0,7866
+Bézout - Général Leclerc,"48.82885,2.32860",30,9627.0,7866
+Leredde - Tolbiac,"48.82888,2.37444",44,8963.0,7866
+Jonquoy - Didot,"48.82890,2.31648",31,6584.0,7866
+Brancion - Lefebvre,"48.82900,2.30143",11,7207.0,7866
+Stade Pershing,"48.82911,2.45835",26,1907.0,7866
+Chevaleret - Tolbiac,"48.82941,2.37593",21,9496.0,7866
+Glacière - Soeur Catherine Marie,"48.82952,2.34357",40,6990.0,7866
+Jacquier - Didot,"48.82953,2.31818",30,7174.0,7866
+Place Nationale - Château-des-Rentiers,"48.82957,2.36505",18,6918.0,7866
+Place Jeanne d'Arc,"48.82957,2.36913",36,8921.0,7866
+Place Lafayette,"48.82965,2.26387",62,10321.0,7866
+Colonel Pierre Avia,"48.82968,2.27534",29,5558.0,7866
+Bobillot - Paulin Mery,"48.82990,2.35434",23,9777.0,7866
+Plantes - Moulin Vert,"48.83006,2.32323",45,10622.0,7866
+Auguste Blanqui - Corvisart,"48.83010,2.35027",26,6727.0,7866
+Sèvres - Général Leclerc,"48.83012,2.23143",30,6558.0,7866
+Dantzig - Lefebvre,"48.83014,2.29593",33,6977.0,7866
+Tombe Issoire - René Coty,"48.83051,2.33436",36,9020.0,7866
+Pierre Larousse - Raymond Losserand,"48.83060,2.31192",30,9282.0,7866
+Place Amédée Gordini - Lefebvre,"48.83062,2.29206",38,4662.0,7866
+Cimetière communal,"48.83076,2.25202",40,6222.0,7866
+Dareau - Broussais,"48.83078,2.33618",24,7970.0,7866
+Gergovie - Alésia,"48.83089,2.31888",36,7874.0,7866
+Ernest Renan - Parc des Expositions,"48.83090,2.28536",50,7303.0,7866
+Guynemer - Séverine ,"48.83092,2.27907",26,5680.0,7866
+Primo Levi - Frigos,"48.83095,2.37965",34,7918.0,7866
+Croulebarde - Corvisart,"48.83098,2.34816",34,9782.0,7866
+Auguste Blanqui - Glacière,"48.83115,2.34382",60,11423.0,7866
+Pau Casals - Neuve Tolbiac,"48.83116,2.37744",53,14744.0,7866
+Porte de Charenton,"48.83124,2.39891",67,9712.0,7866
+Ferrus - Saint-Jacques,"48.83139,2.34086",34,8500.0,7866
+Hameau Fleuri - Marché,"48.83145,2.24124",22,4678.0,7866
+Place d'Italie - Vincent Auriol,"48.83148,2.35676",40,13186.0,7866
+Mouton Duvernet - Général Leclerc,"48.83163,2.32931",39,9424.0,7866
+Alésia - Suisses,"48.83168,2.31499",47,11012.0,7866
+Fief - République,"48.83171,2.25577",25,5109.0,7866
+Place d'Italie - Soeur Rosalie,"48.83191,2.35469",52,11918.0,7866
+Terroirs de France - Lheureux,"48.83212,2.38862",55,4954.0,7866
+Porte de Versailles,"48.83215,2.28715",24,6851.0,7866
+Silly - Louis Blériot,"48.83219,2.23402",23,6646.0,7866
+Billancourt - Général Leclerc ,"48.83226,2.23804",22,6492.0,7866
+Parc Georges Brassens - Brancion,"48.83228,2.30226",29,8145.0,7866
+Dunois - Clisson,"48.83229,2.36745",51,10191.0,7866
+Pirogues de Bercy - Libourne,"48.83231,2.38637",49,3794.0,7866
+Nationale - Vincent Auriol,"48.83253,2.36235",33,10591.0,7866
+Mairie du 14ème,"48.83255,2.32549",32,10709.0,7866
+Chevaleret - Louise Weiss,"48.83259,2.37121",35,10391.0,7866
+Dôme - République,"48.83268,2.25026",25,5956.0,7866
+Halle Freyssinet - Parvis Alan Turing,"48.83285,2.37114",23,4685.0,7866
+Franquet - Labrouste,"48.83288,2.30676",37,8331.0,7866
+Cardinal Lavigerie,"48.83293,2.40264",46,8133.0,7866
+René Coty - Place Denfert-Rochereau,"48.83306,2.33294",36,11289.0,7801
+Morillons - Dantzig,"48.83310,2.29938",52,6374.0,7866
+Enfants du Paradis - Peupliers,"48.83312,2.25715",40,7313.0,7866
+Saint-Jacques - Tombe Issoire,"48.83321,2.33691",24,9054.0,7805
+Bara - Henri Farman,"48.83322,2.26776",36,4385.0,7866
+Parc Suzanne Lenglen,"48.83325,2.27654",52,12750.0,7866
+Place Marcel Sembat,"48.83329,2.24417",56,8530.0,7866
+Boyer-Barret - Raymond Losserand,"48.83330,2.31734",23,6790.0,7866
+Palais des Sports,"48.83347,2.28587",22,4204.0,7866
+Didot - Place de Moro-Giafferi,"48.83370,2.32150",22,7859.0,7866
+Henry Farman,"48.83372,2.27139",16,2864.0,7866
+François Truffaut - Saint Emilion,"48.83372,2.38660",66,10798.0,7866
+Bois de Vincennes,"48.83381,2.41322",60,7075.0,7866
+Charenton - Jardiniers,"48.83382,2.39469",31,4814.0,7866
+Vincent Auriol - Louise Weiss,"48.83400,2.37039",22,5627.0,7866
+Cadix - Hameau,"48.83401,2.28952",37,9112.0,7866
+Saint-Amand - Labrouste,"48.83410,2.30877",36,10407.0,7866
+Tremblay - Lac des Minimes,"48.83413,2.45475",48,5649.0,7866
+Pernety - Raymond Losserand,"48.83425,2.31761",32,8509.0,7866
+Quai du Président Roosevelt - Pont Aval,"48.83439,2.26568",30,1266.0,7866
+Boulard - Daguerre,"48.83446,2.32934",45,8366.0,7802
+Gergovie - Vercingétorix,"48.83453,2.31315",29,6987.0,7866
+Olivier de Serres - Leriche,"48.83460,2.29575",25,10084.0,7866
+Madagascar - Meuniers,"48.83460,2.39707",33,9323.0,7866
+Square Desnouettes,"48.83477,2.28414",22,6564.0,7866
+Général Michel Bizot - Claude Decaen,"48.83481,2.40093",38,10007.0,7866
+Edouard Vaillant - Paul-Adolphe Souriau,"48.83485,2.24795",28,4822.0,7866
+Bruant - Vincent Auriol,"48.83485,2.36683",25,10312.0,7866
+Arago - Glacière,"48.83486,2.34458",27,10345.0,7866
+Hôtel de Ville de Boulogne Billancourt,"48.83496,2.24168",26,6363.0,7866
+Bibliothèque Nationale de France,"48.83503,2.37602",42,9453.0,7866
+Maine - Liancourt,"48.83506,2.32373",27,7260.0,7866
+Santé - Arago,"48.83508,2.34157",38,7640.0,7866
+Le Brun - Gobelins,"48.83509,2.35347",48,11189.0,7866
+Gabriel Lamé,"48.83512,2.38553",36,10301.0,7866
+Froidevaux - Boulard,"48.83515,2.32944",35,7436.0,7804
+Hôpital - Campo-Formio,"48.83541,2.35822",16,7987.0,7866
+Porte Dorée,"48.83543,2.40771",36,15487.0,7866
+Bois de Vincennes - Polygone,"48.83544,2.43142",51,6632.0,7866
+Cordelières - Arago,"48.83548,2.34857",46,11496.0,7866
+Place Charles Vallin,"48.83552,2.30260",26,12081.0,7803
+Silly - Galliéni,"48.83558,2.23255",25,6726.0,7866
+Méchain - Faubourg Saint-Jacques,"48.83587,2.33798",16,6132.0,7866
+Abbé Groult - Convention,"48.83597,2.30206",12,3741.0,7866
+Bois de Vincennes - Gare,"48.83602,2.47083",50,5676.0,7866
+Général De Gaulle - Vivien,"48.83607,2.41892",22,6656.0,7866
+Ouest - Château ,"48.83617,2.31939",23,6575.0,7866
+Place Robert Guillemard,"48.83619,2.28113",24,5561.0,7866
+Place Falguière,"48.83630,2.31045",23,10373.0,7866
+Fernand Braudel - Vincent Auriol ,"48.83638,2.37234",36,10645.0,7866
+Place Balard,"48.83640,2.27842",22,8964.0,7866
+Dominique Pado - Croix Nivert,"48.83649,2.28973",22,7833.0,7866
+Charles de Gaulle - Beauté,"48.83650,2.47956",49,3355.0,7866
+Duhamel - André Gide,"48.83657,2.31271",20,4866.0,7866
+Vaugirard - Place Henri Rollet,"48.83659,2.29306",27,10030.0,7866
+Charenton - Wattignies,"48.83668,2.39180",33,12625.0,7866
+Vasco de Gama,"48.83672,2.28366",54,10247.0,7866
+Château - Place de Catalogne,"48.83681,2.31853",33,6636.0,7866
+Schoelcher - Raspail,"48.83682,2.33128",50,6830.0,7795
+Dutot - Place Alleray,"48.83683,2.30717",56,8580.0,7866
+Lucien Bossoutrot - Général Martial Vallin,"48.83696,2.27411",39,7762.0,7866
+Gobelins - Port-Royal,"48.83714,2.35152",41,14158.0,7866
+Pyramide - Parc Floral,"48.83744,2.44045",50,8113.0,7866
+Daumesnil - Picpus,"48.83747,2.40177",21,10087.0,7866
+Pitié-Salpêtrière,"48.83749,2.36521",51,7586.0,7866
+Murat - Porte de Saint-Cloud,"48.83751,2.25777",38,10166.0,7866
+Cassini - Denfert-Rochereau,"48.83753,2.33604",25,5721.0,7866
+Claude Decaen - Cannebière,"48.83761,2.39725",27,7591.0,7866
+Port-Royal - Hôpital du Val-de-Grâce,"48.83767,2.34481",18,10080.0,7866
+Convention - Vaugirard,"48.83768,2.29559",48,16518.0,7866
+Hôpital Européen Georges Pompidou ,"48.83770,2.27537",65,10771.0,7866
+Hôpital Pitié Salpêtrière,"48.83770,2.36049",50,11531.0,7866
+Sèvres-Gallieni,"48.83781,2.22815",27,3789.0,7866
+Le Corbusier - Jean Jaurès,"48.83781,2.24084",46,7935.0,7866
+Place Ginette Hamelin,"48.83785,2.38206",51,7647.0,7866
+Bargue -  Dutot,"48.83788,2.30888",21,7494.0,7866
+Rottembourg - Général Michel Bizot,"48.83788,2.40441",43,8085.0,7866
+Maine - Jean Zay  ,"48.83793,2.32254",50,9001.0,7866
+Lecourbe - Jean Maridor,"48.83796,2.28774",19,8678.0,7866
+Victor Hugo - Galliéni,"48.83802,2.24608",34,5828.0,7866
+Hôpital Européen Georges Pompidou,"48.83815,2.27494",0,0.0,2
+Duméril - Jeanne d'Arc,"48.83815,2.35711",41,10908.0,7866
+Général Martial Valin - Pont du Garigliano,"48.83823,2.27051",16,4988.0,7866
+Ancienne Mairie - André Morizet,"48.83831,2.23408",25,4825.0,7866
+Port Royal - Hôpital Cochin,"48.83837,2.34072",23,10228.0,7866
+Gare de Nogent-le-Perreux,"48.83843,2.49369",32,3052.0,7866
+Balard - Montagne de la Fage,"48.83851,2.27829",36,7441.0,7866
+Porte de Saint Cloud - Parc des Princes,"48.83866,2.25252",32,6330.0,7866
+Vigée-Lebrun - Anselme Payen,"48.83868,2.31104",24,6336.0,7866
+Félix Faure - Lourmel,"48.83869,2.28181",58,10653.0,7866
+Bois de Vincennes - Porte Jaune,"48.83875,2.46055",35,3141.0,7866
+Dugommier,"48.83881,2.38966",55,13627.0,7866
+Pasteur - Cotentin,"48.83893,2.31636",33,7827.0,7866
+Paul Klee - Place Augusta Holmes,"48.83895,2.37042",43,5264.0,7866
+Pascal - Claude Bernard,"48.83906,2.34998",49,14872.0,7866
+Geoffroy-Saint-Hilaire - Saint-Marcel,"48.83908,2.35688",17,7982.0,7866
+Général De Gaulle - Alouette,"48.83911,2.41757",26,10179.0,7866
+Gare Montparnasse - René Mouchotte,"48.83920,2.32088",39,10994.0,7866
+Lecourbe - Convention,"48.83923,2.29152",46,12590.0,7866
+Edgar Quinet - Raspail,"48.83940,2.32971",46,8988.0,7798
+Saint-Marcel - Hôpital,"48.83950,2.36099",21,10214.0,7866
+Reuilly - Daumesnil,"48.83954,2.39725",36,7858.0,7866
+Place Adolphe Cherioux - Vaugirard,"48.83959,2.30107",63,14019.0,7866
+Claude Bernard - Arbalète,"48.83977,2.34751",17,7837.0,7866
+Gare de Bercy,"48.83979,2.38261",35,8344.0,7866
+Bercy,"48.83997,2.37886",66,9046.0,7866
+Picpus - Louis Braille,"48.83999,2.40053",44,10300.0,7866
+Jean Jaurès - Reine,"48.84010,2.23987",31,6699.0,7866
+Paul Barruel - Vaugirard,"48.84015,2.30443",39,9478.0,7866
+Georges Bernanos - Port Royal,"48.84015,2.33736",30,12175.0,7866
+Versailles - Claude Terrasse,"48.84022,2.26383",46,8747.0,7866
+Place du Moulin de Javel,"48.84022,2.27161",45,6921.0,7866
+Reuilly - Place Felix Eboue,"48.84030,2.39463",42,10963.0,7866
+Arsonval - Falguière,"48.84040,2.31312",25,7173.0,7866
+Vaugirard - Pasteur,"48.84041,2.31544",21,8227.0,7866
+Charles Lecocq - Lecourbe,"48.84044,2.29487",30,8658.0,7866
+Rond-Point Rhin et Danube,"48.84045,2.22802",53,6399.0,7866
+Michel-Ange - Parent de Rosan,"48.84058,2.25841",26,4534.0,7866
+Parc André Citroën,"48.84064,2.27806",65,7398.0,7866
+Censier - Santeuil,"48.84066,2.35375",69,12241.0,7866
+Square Georges Melies,"48.84070,2.40967",40,10985.0,7866
+Mairie du 12ème,"48.84086,2.38755",30,9744.0,7866
+Sahel - Général Michel Bizot,"48.84087,2.40444",33,9645.0,7866
+Exelmans - Versailles,"48.84097,2.26439",49,8973.0,7866
+Censier - Jardin des Plantes,"48.84107,2.35548",28,10788.0,7866
+Edgar Quinet - Gaité,"48.84116,2.32460",27,9942.0,7866
+Félix Faure - Convention,"48.84125,2.28839",44,12921.0,7866
+Volontaires - Vaugirard,"48.84132,2.30809",34,10312.0,7866
+Gare Montparnasse - Edgar Quinet,"48.84149,2.32332",33,11206.0,7866
+Vignerons - Minimes,"48.84149,2.43079",29,6857.0,7866
+Epée de Bois - Mouffetard,"48.84151,2.35007",63,9379.0,7866
+Marcelin Berthelot,"48.84155,2.23316",27,5279.0,7866
+Jean Calvin - Tournefort,"48.84159,2.34849",28,9256.0,7866
+Chevreuse - Montparnasse,"48.84174,2.33155",15,8216.0,7866
+Saint-Jacques - Val de Grâce,"48.84175,2.34139",20,11123.0,7866
+Mairie du 15ème,"48.84178,2.29865",32,12511.0,7866
+Bercy - Villot,"48.84180,2.37679",34,10498.0,7866
+Gare Montparnasse - Vaugirard,"48.84181,2.31951",66,13652.0,7866
+Vivaldi - Antoine-Julien Hénard,"48.84192,2.38973",27,7392.0,7866
+Convention - Lourmel,"48.84206,2.28599",36,9221.0,7866
+Gare d'Austerlitz - Pont Charles de Gaulle,"48.84232,2.36703",55,11418.0,7866
+Cevennes - Bergers,"48.84241,2.28104",29,10403.0,7866
+Place Etienne Pernet,"48.84243,2.29218",43,10804.0,7866
+Fessart - Château,"48.84245,2.23989",20,6758.0,7866
+Gare d'Austerlitz,"48.84252,2.36404",14,7146.0,7650
+Erasme - Ulm,"48.84264,2.34459",24,9419.0,7866
+Montgallet - Charenton,"48.84265,2.38616",16,8656.0,7866
+Buffon - Jardin des Plantes,"48.84267,2.36186",30,6741.0,7866
+Gare de Reuilly - Picpus,"48.84267,2.39729",28,10138.0,7866
+Place Jacques et Thérèse Tréfouël,"48.84273,2.31257",43,7352.0,3729
+Bréa - Raspail,"48.84274,2.32979",24,9769.0,7866
+Michelet - Assas,"48.84274,2.33502",18,7973.0,7866
+Place Monge,"48.84276,2.35241",21,9422.0,7866
+Gare Routière de Saint Cloud,"48.84288,2.22225",31,5563.0,7866
+Odessa - Départ,"48.84289,2.32443",39,8919.0,7866
+Daumesnil - Hébrard,"48.84290,2.38474",40,11696.0,7838
+Croix Nivert - Square Saint-Lambert,"48.84305,2.29520",47,8387.0,7866
+Exelmans - Michel-Ange,"48.84309,2.25978",33,7335.0,7866
+Maine - Antoine Bourdelle,"48.84309,2.32026",17,5934.0,7866
+Convention - Saint-Charles,"48.84316,2.28311",19,9002.0,7866
+Place Denfert-Rochereau,"48.84325,2.24599",20,7858.0,7866
+Cambronne - Mademoiselle,"48.84328,2.30231",67,14855.0,7866
+Montparnasse -  Square Ozanam,"48.84331,2.32652",49,8865.0,7866
+Cauchy - Cévennes,"48.84337,2.27513",51,5650.0,7860
+Herschel - Observatoire,"48.84342,2.33766",37,13841.0,7866
+Volontaire - Lecourbe,"48.84351,2.30655",31,16347.0,7866
+Place Charles Digeon,"48.84354,2.41843",32,8871.0,7866
+Gare Rer de Fontenay sous Bois,"48.84363,2.46305",62,6487.0,7866
+Gare d'Austerlitz - Quai Saint-Bernard,"48.84369,2.36572",27,6757.0,7866
+Lacépède - Linné,"48.84370,2.35465",54,11532.0,7866
+Niger - Soult,"48.84370,2.41036",24,7838.0,7866
+Assas - Luxembourg,"48.84373,2.33343",33,9790.0,7866
+Gare Montparnasse - Arrivée,"48.84383,2.32258",43,11195.0,7866
+Gare de Lyon - Van Gogh,"48.84384,2.37045",51,8638.0,7804
+Lacépède - Monge,"48.84389,2.35197",23,8343.0,7866
+Victor Hugo - Jeanne Jugan,"48.84395,2.41508",28,4631.0,7866
+Gare de Lyon - Roland Barthes,"48.84396,2.37909",68,8673.0,7866
+Place Valhubert,"48.84418,2.36404",37,8899.0,7866
+Château de Vincennes,"48.84423,2.43921",52,12065.0,7866
+Montgallet - Reuilly,"48.84429,2.38965",16,11291.0,7866
+Place de la Montagne du Goulet,"48.84434,2.27738",21,7087.0,7866
+Lakanal - Commerce,"48.84442,2.29406",53,10089.0,7866
+Cherche-Midi - Hôpital Necker,"48.84461,2.31791",38,12578.0,7866
+Saint-Mandé - Docteur Arnold Netter,"48.84463,2.40495",39,12466.0,7866
+Gay Lussac - Saint-Jacques,"48.84473,2.34192",24,7628.0,7866
+Sèvres - Lecourbe,"48.84477,2.31101",62,15778.0,7866
+Notre-Dame-des-Champs - Stanislas,"48.84480,2.32934",19,8301.0,7866
+Joseph Liouville - Croix Nivert,"48.84484,2.29751",64,11188.0,7866
+Charenton - Place du Col Bourgoin,"48.84487,2.38258",35,14820.0,7866
+Place Violet,"48.84488,2.29058",30,9208.0,7866
+Lourmel - Marie Skobtsov,"48.84497,2.28728",22,9448.0,7866
+Thouin - Cardinal Lemoine,"48.84505,2.34946",17,9555.0,7866
+Estrapade - Ulm,"48.84513,2.34546",16,8690.0,7866
+Saint-Mande - Picpus,"48.84513,2.40157",35,10509.0,7801
+Molitor - Michel-Ange,"48.84518,2.26211",53,7084.0,7866
+Molitor - Chardon-Lagache,"48.84521,2.26568",34,5551.0,7866
+Porte Molitor,"48.84525,2.25690",60,11977.0,7866
+Saint-Mandé - Fabre d'Eglantine,"48.84536,2.39650",34,7166.0,7797
+Gare de Lyon - Place Louis Armand,"48.84552,2.37265",60,21915.0,7866
+Jussieu - Guy de la Brosse,"48.84566,2.35565",40,10542.0,7866
+Gare de Lyon - Chalon,"48.84567,2.37415",35,8909.0,7866
+Hôpital Bégin,"48.84572,2.42725",26,8690.0,7866
+Pasteur - Gambetta,"48.84573,2.42360",19,6671.0,7866
+Jean Jaurès - Jean Baptiste Clément ,"48.84576,2.23697",24,9074.0,7866
+Cambronne - Villa Croix Nivert,"48.84585,2.30176",62,9103.0,7866
+Hôpital Necker,"48.84604,2.31325",40,10615.0,7841
+Le Goff - Gay-Lussac,"48.84610,2.34122",35,12351.0,7866
+Blaise-Desgoffe - Vaugirard,"48.84613,2.32427",32,12222.0,7866
+Charenton - Diderot,"48.84617,2.37931",18,12096.0,7866
+Bercy - Traversiére,"48.84619,2.37038",30,10123.0,7866
+Javel - André Citroën,"48.84628,2.27864",45,9675.0,7866
+Boulangers - Cardinal Lemoine,"48.84629,2.35215",20,8866.0,7866
+Paris - Laitières,"48.84630,2.42076",22,6172.0,7866
+Louis Xavier de Ricard - Ancienne Mairie,"48.84630,2.47242",34,3699.0,7866
+Place Charles Michels,"48.84640,2.28502",37,11750.0,7866
+Porte de Vincennes ,"48.84645,2.41551",33,6620.0,7809
+Saint-Jacques - Soufflot,"48.84653,2.34310",19,10499.0,7866
+Guynemer - Jardin du Luxembourg,"48.84661,2.33255",36,12168.0,7866
+Bastille - Quai de la Rapée,"48.84682,2.36694",27,8950.0,7866
+Place de la Nation - Picpus,"48.84682,2.40011",36,7169.0,7793
+Place Jean-Spire-Lemaître,"48.84684,2.45206",50,9516.0,7866
+Cours de Vincennes - Soult,"48.84692,2.41052",45,8137.0,7866
+Hector Malot - Daumesnil,"48.84694,2.37709",54,10915.0,7851
+Panthéon - Valette,"48.84702,2.34650",39,11619.0,7866
+Commandant l'Herminier - Gallieni,"48.84704,2.41605",17,3538.0,7804
+Emile Zola - Fondary,"48.84705,2.29534",42,12319.0,7866
+Cimetière,"48.84706,2.47878",15,1314.0,7866
+Saint-Romain - Cherche-Midi,"48.84708,2.32137",17,7514.0,7866
+Fabre d'Eglantine - Place de la Nation,"48.84711,2.39562",68,11758.0,7737
+Suffren - Pérignon,"48.84718,2.30705",46,11648.0,7866
+Jussieu - Fossés Saint-Bernard,"48.84719,2.35349",39,13918.0,7866
+Diderot - Reuilly,"48.84721,2.38613",44,15913.0,7866
+Cours de Vincennes - Davout,"48.84724,2.41070",48,9671.0,7866
+Regard - Rennes,"48.84739,2.32686",46,11948.0,7866
+Duroc - Place de Breteuil,"48.84746,2.31261",42,9834.0,7845
+Eglise d'Auteuil,"48.84750,2.26848",21,8255.0,7866
+Gare RER de Vincennes,"48.84756,2.43338",51,17740.0,7866
+Square Cambronne,"48.84757,2.30257",59,12959.0,7866
+Place de Barcelone - Mirabeau,"48.84762,2.27357",55,11508.0,7866
+Diderot - Pierre Bourdan,"48.84765,2.39026",21,6770.0,7797
+Invalides - Duroc,"48.84779,2.31619",29,10625.0,7842
+Pyrénées - Cours de Vincennes,"48.84780,2.40617",21,10853.0,7866
+Fontenay - Libération,"48.84780,2.44514",25,6981.0,7866
+Bourdon - Pont Morland,"48.84781,2.36594",52,8356.0,7866
+Emeriau - Beaugrenelle,"48.84791,2.28431",74,13126.0,7866
+Porte d'Auteuil,"48.84794,2.26084",33,7996.0,7866
+Commerce - Letellier,"48.84798,2.29662",44,11350.0,7866
+Charenton - Prague,"48.84818,2.37636",26,12319.0,7866
+Cujas - Saint-Michel,"48.84819,2.34183",19,7482.0,7812
+Théâtre - Lourmel,"48.84821,2.28987",53,11813.0,7866
+Mutualité,"48.84823,2.35029",37,11077.0,7866
+Assas - Vaugirard,"48.84827,2.32924",35,8765.0,7866
+Transvaal - Charles de Gaulle ,"48.84828,2.23734",27,7920.0,7866
+Hôtel de Ville de Vincennes,"48.84828,2.43990",27,9502.0,7866
+Place de la Nation - Charonne,"48.84836,2.39976",36,10486.0,7796
+Marché d'Auteuil,"48.84843,2.26525",32,6841.0,7866
+Vaneau - Sèvres,"48.84856,2.32042",35,12118.0,7841
+La Motte-Picquet - Grenelle,"48.84858,2.29935",34,9515.0,7866
+Faubourg St-Antoine - Place de la Nation,"48.84877,2.39404",37,8663.0,7727
+Place de la Nation - Taillebourg,"48.84884,2.39730",47,13569.0,7733
+Lagny - Victor Basch,"48.84884,2.42633",26,8752.0,7866
+Ecoles - Carmes,"48.84890,2.34735",36,11905.0,7866
+Vaugirard - Monsieur le Prince,"48.84895,2.34113",26,9366.0,7813
+Saint-Placide - Cherche Midi,"48.84905,2.32532",66,11939.0,7866
+Institut du Monde Arabe - Saint-Germain,"48.84906,2.35581",40,10680.0,7809
+Assas - Rennes,"48.84921,2.32851",32,5612.0,7866
+Lagny - Auguste Blanqui,"48.84923,2.42186",27,6811.0,7866
+Boulets - Faubourg Saint-Antoine,"48.84926,2.39175",43,8688.0,7793
+Place Fernand Forest,"48.84927,2.28186",33,10837.0,7866
+Lacuée - Lyon,"48.84927,2.37046",16,10946.0,7837
+Reynaldo Hahn - Lagny,"48.84927,2.41233",19,5218.0,7866
+Lagny - Joffre,"48.84931,2.41795",31,5929.0,7866
+Hôtel de ville de Fontenay-sous-Bois,"48.84950,2.47502",20,1132.0,7866
+Sénat - Condé,"48.84954,2.33794",33,11297.0,7866
+Sorbonne - Ecoles,"48.84969,2.34350",50,10637.0,7810
+Poissy - Saint-Germain,"48.84970,2.35297",25,7162.0,7807
+Mornay - Sully,"48.84970,2.36446",15,6609.0,7809
+La Jarry - Place Diderot,"48.84973,2.45201",25,8027.0,7866
+George Sand - Jean de La Fontaine,"48.84987,2.26826",30,7088.0,7866
+Grenelle - Violet,"48.84993,2.29461",35,9335.0,7866
+Stalingrad - Rigollots,"48.84997,2.45558",20,6418.0,7866
+Place Alphonse Deville,"48.85019,2.32760",23,7681.0,7866
+Mézières - Rennes ,"48.85023,2.33038",55,8983.0,7866
+Montreuil - République,"48.85026,2.43452",25,8430.0,7866
+Pyrénées - Plaine,"48.85027,2.40628",12,6688.0,7866
+Sommerard - Saint-Jacques,"48.85031,2.34502",34,9181.0,7807
+Théophile Gautier - François Millet,"48.85035,2.27303",30,7539.0,7866
+Crozatier - Faubourg Saint-Antoine,"48.85044,2.37890",29,16514.0,7866
+Pontoise - La Tournelle,"48.85046,2.35245",23,7243.0,7812
+Montreuil - Gonnet,"48.85050,2.38909",24,9411.0,7866
+Montreuil - Voltaire,"48.85051,2.39308",34,9707.0,7734
+Place Mireille Havet,"48.85053,2.38376",43,17672.0,7866
+Saint-Germain - Thenard,"48.85057,2.34710",31,8983.0,7807
+Traversière - Ledru-Rollin,"48.85074,2.37587",34,17672.0,7866
+Emeriau - Place de Brazzaville,"48.85079,2.28716",51,7754.0,7866
+Suffren - La Motte-Piquet,"48.85088,2.30122",23,8283.0,7866
+Pierre Sarrazin - Saint-Michel,"48.85091,2.34213",33,8943.0,7807
+Quai de Béthune - Pont de la Tournelle,"48.85097,2.35631",25,8466.0,7866
+Square Bela Bartok,"48.85120,2.28465",24,3981.0,7866
+Square Boucicaut,"48.85130,2.32506",60,13107.0,7866
+Quai des Célestins - Henri IV,"48.85130,2.36245",14,11375.0,7809
+Grenelle - Dr Finlay,"48.85132,2.29195",71,10412.0,6903
+Maison de Radio - France,"48.85133,2.27779",47,8400.0,7866
+Paganini - Davout,"48.85135,2.41202",22,6117.0,7866
+Bastille - Biscornet,"48.85136,2.36922",62,10936.0,7686
+Faidherbe - Dahomey,"48.85136,2.38382",44,9382.0,7866
+Ségur - d'Estrées,"48.85142,2.30970",19,9334.0,7866
+Dupleix - du Guesclin,"48.85148,2.29671",47,10188.0,7866
+Harpe - Saint-Germain,"48.85152,2.34367",46,12984.0,7805
+Saint-François-Xavier,"48.85154,2.31461",42,12900.0,7841
+Charonne - Avron,"48.85160,2.39840",27,10349.0,7799
+Buzenval - Avron,"48.85162,2.40151",50,10749.0,7866
+Saint-Sulpice,"48.85165,2.33081",21,8847.0,7866
+Marché Saint-Germain,"48.85166,2.33550",21,10069.0,7866
+Quatre Vents - Carrefour de l'Odéon,"48.85175,2.33816",37,11546.0,7866
+Philippe-Auguste,"48.85185,2.39329",48,6490.0,7866
+Square René Viviani - Montebello,"48.85190,2.34784",34,12021.0,7866
+Ecole Militaire - Place Joffre,"48.85206,2.30180",26,5711.0,7866
+Charonne - Faubourg Saint-Antoine,"48.85219,2.37409",34,15708.0,7866
+Boulets - Voltaire,"48.85219,2.38903",24,10230.0,7804
+Raspail - Chomel,"48.85223,2.32666",49,9181.0,7841
+Danton - Serpente,"48.85230,2.34141",22,8089.0,7866
+Benoît Frachon - République,"48.85231,2.41561",30,6998.0,7866
+Place de la Bastille - Bourdon,"48.85236,2.36811",35,11084.0,7696
+Charles Delescluze,"48.85242,2.38063",49,10838.0,7866
+République - Danton,"48.85249,2.46203",20,3535.0,7866
+Place du Général de Gaulle,"48.85253,2.48773",28,3046.0,7866
+Réunion - Avron,"48.85257,2.40393",26,6180.0,7866
+Sabot - Rennes,"48.85258,2.33155",26,8840.0,7844
+Raffet - Montmorency,"48.85259,2.26293",42,5513.0,7866
+Village Saint-Paul,"48.85264,2.36073",28,9355.0,7866
+Jean de la Fontaine - Boulainvilliers,"48.85265,2.27587",68,10590.0,7786
+Saint-Séverin - Saint-Michel,"48.85273,2.34409",30,11695.0,7805
+Gambetta - Michelet,"48.85274,2.42997",33,7699.0,7866
+Desaix - Edgar Faure,"48.85280,2.29308",12,5320.0,7866
+Fédération - Suffren,"48.85283,2.29788",25,6488.0,7866
+Mozart - Jasmin,"48.85286,2.26848",62,6679.0,7866
+Place Saint-André des Arts,"48.85289,2.34265",37,13316.0,7866
+Alexandre Dumas - Voltaire,"48.85289,2.38915",59,11649.0,7866
+Quai aux Fleurs - Pont Saint-Louis,"48.85292,2.35220",21,7867.0,7866
+Davout - Volga,"48.85292,2.41052",28,7216.0,7866
+Ranelagh - Maison de la Radio,"48.85294,2.28045",22,7719.0,7866
+Place de la République,"48.85299,2.42467",28,7383.0,7866
+Raspail - Varenne,"48.85315,2.32639",18,7253.0,7844
+Pyrénées - Avron,"48.85325,2.40587",32,9216.0,7866
+Saint-Germain - Ciseaux,"48.85331,2.33447",18,8975.0,7841
+Jean Macé - Faidherbe,"48.85338,2.38286",63,13597.0,7866
+Ledru-Rollin - Charonne,"48.85346,2.37725",32,12419.0,7866
+Neuve Saint-Pierre - Beautreillis,"48.85355,2.36391",20,10573.0,7866
+Place Joffre - Frédéric le Play,"48.85375,2.30442",38,8985.0,7866
+André Mazet - Saint-André des Arts,"48.85376,2.33910",55,10707.0,7866
+Bastille - Beaumarchais,"48.85383,2.36857",23,11916.0,7697
+Richard Lenoir - Place de la Bastille,"48.85383,2.36972",53,19617.0,7705
+Bir Hakeim,"48.85384,2.28971",33,12398.0,7866
+Maréchal Joffre - Verdun,"48.85385,2.47031",20,2671.0,7866
+Buzenval - Vignoles,"48.85386,2.40000",17,6786.0,7866
+Haies - Réunion,"48.85387,2.40243",22,7105.0,7866
+Arcole - Notre-Dame,"48.85388,2.34938",31,7919.0,7866
+Hôtel de Ville - Pont-Marie,"48.85390,2.35695",36,9389.0,7866
+Docteurs Déjérine - Pte de Montreuil,"48.85398,2.41208",20,6673.0,7866
+Charonne - Bureau,"48.85418,2.39609",47,9696.0,7866
+Saint-Germain-des-Prés,"48.85419,2.33031",26,7876.0,7842
+Cité Vaneau,"48.85422,2.31961",26,7221.0,7866
+Jules Vallès - Charonne,"48.85428,2.38477",23,10594.0,7807
+Suffren - Champ de Mars,"48.85472,2.29522",23,6632.0,7866
+Paris - Emile Zola,"48.85490,2.41867",30,9001.0,7866
+Vincennes - Douy-Delcupe,"48.85494,2.43605",38,5447.0,7866
+Léon Frot - Charonne,"48.85496,2.38722",19,10773.0,7866
+Saint-Antoine Sévigné,"48.85502,2.36123",26,16450.0,7866
+Roquette - Thiéré,"48.85508,2.37337",23,9095.0,7866
+Alouettes - Maréchal de Lattre de Tassigny,"48.85511,2.49307",22,1442.0,7866
+Marché aux fleurs,"48.85526,2.34738",23,7538.0,7866
+Jacques Callot - Mazarine,"48.85528,2.33757",28,8231.0,7866
+Pont de Lodi - Dauphine ,"48.85530,2.33995",23,8102.0,7866
+Alexandre Dumas - Place de la Réunion,"48.85534,2.39977",45,6761.0,7866
+Pyrénées - Dagorno,"48.85543,2.40516",20,6668.0,7866
+Ranelagh - Mozart,"48.85544,2.27044",23,10218.0,7866
+Saint-Benoît - Jacob,"48.85545,2.33347",23,9232.0,7866
+Keller - La Roquette,"48.85555,2.37528",34,10998.0,7866
+Beaumarchais - Pas de la Mule,"48.85558,2.36843",18,8849.0,7777
+Orteaux - Mouraud,"48.85559,2.40876",24,7068.0,7866
+Charonne - Philippe-Auguste,"48.85560,2.39055",32,11071.0,7866
+Raspail - Bac,"48.85563,2.32566",52,13066.0,7841
+Tiron - Rivoli ,"48.85569,2.35791",28,11863.0,7866
+Hôtel de Ville - Pont d'Arcole,"48.85588,2.35089",20,1435.0,3094
+Charonne - Robert et Sonia Delauney,"48.85591,2.39257",20,6605.0,7866
+Place Carnot,"48.85594,2.44153",25,5969.0,7866
+Mairie du 4ème,"48.85595,2.35638",44,13443.0,7785
+Charonne - Alexandre Dumas,"48.85608,2.39487",35,10067.0,7866
+Mont Valérien - Michel Salles,"48.85619,2.21530",24,2012.0,7866
+Lobau - Hôtel de Ville,"48.85621,2.35325",60,13008.0,7866
+Square Denise Buisson,"48.85623,2.42644",45,5436.0,7866
+Eugène Reisz - Davout,"48.85632,2.41040",20,4927.0,7450
+Belfort - Voltaire,"48.85634,2.38299",39,11688.0,7804
+Vignes - Boulainvilliers,"48.85640,2.27524",21,6134.0,7866
+Ledru-Rollin - Place du Père Chaillet,"48.85643,2.37902",37,14829.0,7866
+Beaux-Arts - Bonaparte,"48.85645,2.33485",20,5735.0,7866
+Octave Gréard - Tour Eiffel,"48.85650,2.29318",33,7309.0,7866
+Champ de Mars - Cler,"48.85669,2.30665",41,10645.0,7841
+Stalingrad - Désiré Chevalier,"48.85670,2.44507",42,8305.0,7866
+Place des Larris,"48.85684,2.47802",34,883.0,7866
+Bréguet - Sabin,"48.85693,2.37067",33,12316.0,7866
+Saint-Blaise - Mouraud,"48.85696,2.40869",27,6680.0,7866
+Chernoviz - Raynouard,"48.85699,2.28217",37,4116.0,7866
+Froment - Bréguet,"48.85704,2.37289",43,15118.0,7866
+Quai de l'Horloge - Pont Neuf,"48.85706,2.34180",17,6905.0,7866
+Bagnolet - Orteaux,"48.85709,2.39841",36,11369.0,7866
+Pyrénées - Maraîchers,"48.85714,2.40435",19,8130.0,7866
+Place de la Fraternité,"48.85716,2.42285",22,6838.0,7866
+Varenne,"48.85720,2.31528",47,7884.0,7843
+La Motte-Picquet - La Tour Maubourg,"48.85723,2.30941",40,9426.0,7866
+Senard - Charles Blum,"48.85732,2.22109",24,3101.0,7866
+Place de l'Hôtel de Ville,"48.85733,2.35146",14,10959.0,7866
+Place de la Porte de Passy,"48.85734,2.26442",36,6215.0,7866
+Archives - Rivoli,"48.85735,2.35398",25,11177.0,7866
+François Debergue - Croix de Chavaux,"48.85742,2.43758",57,8541.0,7866
+Paris - Désiré Préaux,"48.85743,2.43230",49,8150.0,7866
+Jean Bologne - Passy,"48.85757,2.28003",19,4602.0,7866
+Institut de France,"48.85762,2.33583",17,6818.0,7866
+Saint-Cloud - Hippodrome,"48.85772,2.25491",30,4401.0,7866
+Place de Passy,"48.85780,2.27750",15,6868.0,7866
+Mairie du 7ème,"48.85780,2.31927",27,6206.0,7866
+Victoria - Place du Chatelet,"48.85799,2.34692",22,9864.0,7800
+Saint-Bon - Rivoli,"48.85800,2.35022",19,8265.0,7866
+Roquette - Auguste Laurent,"48.85800,2.38180",16,10071.0,7866
+Beaumarchais - Saint-Gilles,"48.85804,2.36794",51,12151.0,7777
+Rapp - Place du Général Gouraud,"48.85810,2.30041",31,10963.0,7866
+Saint-Gilles - Turenne,"48.85816,2.36471",18,11449.0,7866
+Vieille du Temple - Francs Bourgeois,"48.85826,2.35822",29,12884.0,7866
+Villersexel - Saint-Germain,"48.85830,2.32379",16,6003.0,7841
+Pont-Neuf - Quai du Louvre,"48.85830,2.34237",30,2223.0,3093
+François Ponsard - La Muette ,"48.85837,2.27445",23,7367.0,7866
+Charonne - Pierre Bayle,"48.85845,2.39040",23,8450.0,7866
+Passy - Place du Costa Rica,"48.85849,2.28397",33,10507.0,7866
+Centenaire - Sorins,"48.85854,2.42735",45,6812.0,7866
+Bosquet - Saint-Dominique,"48.85865,2.30372",28,12928.0,7838
+Saint-Maur - Roquette,"48.85869,2.38355",46,12958.0,7866
+Cloître Saint-Merri - Renard,"48.85884,2.35183",32,8680.0,7866
+Mairie du 11ème,"48.85892,2.37898",51,17074.0,7808
+Quai Voltaire,"48.85894,2.33142",32,10318.0,7866
+Saint-Denis - Rivoli,"48.85906,2.34769",43,12826.0,7866
+Las Cases - Bourgogne,"48.85909,2.31857",22,5337.0,7866
+Roquette - Folie Regnault,"48.85925,2.38655",52,11714.0,7866
+Lavandieres Sainte Opportune - Rivoli,"48.85928,2.34662",27,11056.0,7866
+Repos - Cimetière du Père Lachaise,"48.85936,2.38961",33,5640.0,7866
+Faustin Hélie - Desbordes-Valmore,"48.85940,2.27652",33,3836.0,7866
+Blancs-Manteaux - Archives ,"48.85942,2.35595",29,13076.0,7866
+Résistance - Parmentier,"48.85965,2.43671",35,6131.0,7866
+Musée d'Orsay,"48.85973,2.32586",65,9028.0,7866
+Bagnolet - Place Saint-Blaise,"48.85973,2.40334",28,6978.0,7866
+Pelée - Alphonse Baudin,"48.86003,2.37105",38,9319.0,7866
+Pont Neuf - Rivoli,"48.86009,2.34406",27,13258.0,7866
+Paul Doumer - La Tour,"48.86012,2.28084",34,6652.0,7866
+Place Edmond Michelet,"48.86013,2.35006",23,10248.0,7866
+Perle - Vieille du Temple,"48.86013,2.36112",36,11740.0,7866
+Halles - Bourdonnais,"48.86045,2.34602",20,11589.0,7866
+Vitruve - Davout,"48.86053,2.40916",23,6731.0,7866
+Constantine - Université,"48.86068,2.31485",65,12214.0,7841
+Bourdonnais - Tour Eiffel,"48.86090,2.29560",60,10473.0,7866
+Square Saint-Ambroise,"48.86093,2.37584",43,15581.0,7808
+Pyrénées - Charles Renouvier,"48.86096,2.40042",29,6000.0,7866
+Octave Feuillet - Albéric Magnard,"48.86107,2.27303",21,3679.0,7866
+Chemin Vert - Saint-Maur,"48.86112,2.38130",45,14683.0,7866
+Amelot - Saint-Sébastien,"48.86114,2.36780",30,11741.0,7778
+Quai Anatole France - Musée d'Orsay,"48.86121,2.32425",12,1521.0,3091
+Surcouf - Université,"48.86127,2.30945",58,12656.0,7840
+Mairie de Montreuil,"48.86131,2.44061",52,9248.0,7866
+Cossonnerie - Sébastopol,"48.86133,2.34942",24,15535.0,7802
+Oratoire - Rivoli,"48.86134,2.34000",18,7640.0,7866
+Assemblée Nationale,"48.86141,2.32012",63,10043.0,7866
+Centre Georges Pompidou,"48.86142,2.35258",26,13189.0,7866
+Jardin de l'Hospice Debrousse,"48.86145,2.40569",23,5937.0,7866
+Temple - Haudriettes,"48.86164,2.35670",19,9473.0,7866
+Richard Lenoir - Voltaire,"48.86164,2.37275",25,11768.0,7804
+Siam - La Pompe,"48.86172,2.27535",16,4752.0,7866
+Sebastopol - Rambuteau,"48.86182,2.35014",16,8299.0,7792
+Place Nelson Mandela ,"48.86209,2.19658",22,1488.0,7866
+Fille du Calvaire - Turenne,"48.86211,2.36496",29,15335.0,7866
+Saint-Ambroise - Parmentier,"48.86215,2.37723",38,10383.0,7866
+Louis Lumière ,"48.86216,2.41113",22,3783.0,7866
+Ceinture du Lac Inferieure - Saint-Cloud,"48.86218,2.26179",42,3585.0,7866
+Jean Moulin - Paul Doumer,"48.86222,2.45533",20,5002.0,7866
+Lucie Aubrac - Franklin,"48.86224,2.44359",36,7034.0,7866
+Archives - Pastourelle,"48.86236,2.35950",28,10920.0,7866
+Place du Palais Royal,"48.86238,2.33848",67,12837.0,7866
+Place de Finlande,"48.86241,2.31136",25,5922.0,7866
+Beaubourg - Michel-le-Comte,"48.86253,2.35431",18,8496.0,7866
+Indre - Prairies,"48.86254,2.40329",38,6830.0,7866
+Grande Truanderie - Saint-Denis,"48.86263,2.34981",33,14657.0,7866
+Place Pasdeloup,"48.86265,2.36703",21,10847.0,7781
+Édouard Vaillant - Place Jean Jaurès,"48.86266,2.20890",24,1274.0,7866
+Berges de Seine - Musée d'Orsay,"48.86279,2.30646",16,1580.0,3093
+Lavoisier - Missak Manouchian,"48.86286,2.49568",18,1642.0,7866
+Château - République,"48.86292,2.41550",26,5253.0,7866
+Jean-Jacques Rousseau - Deux Ecus,"48.86298,2.34146",22,7052.0,7866
+Porte de la Muette,"48.86302,2.26872",36,5002.0,7866
+Quai d'Orsay - Invalides,"48.86310,2.31699",18,1470.0,3092
+Ménilmontant - Père Lachaise,"48.86329,2.38699",56,14007.0,7819
+Eylau - Trocadéro,"48.86335,2.28642",24,7999.0,7866
+Square du Bataclan,"48.86338,2.37113",20,8830.0,7807
+Louis Ganne - Davout,"48.86339,2.40973",30,5211.0,7866
+Saint-Honoré - Musée du Louvre,"48.86344,2.33488",22,6898.0,7866
+Place du Lieutenant Henri Karcher,"48.86349,2.34007",30,7496.0,7866
+Turbigo - Française,"48.86359,2.34778",16,9800.0,7866
+Les Halles - Saint-Eustache,"48.86363,2.34262",32,6807.0,7866
+Rivoli - Musée du Louvre,"48.86365,2.33410",24,9148.0,7866
+Coquillière - Louvre,"48.86380,2.34257",21,7893.0,7866
+Guillaume Bertrand - République,"48.86383,2.38091",38,11056.0,7825
+Sablons - Georges Mandel,"48.86388,2.28189",38,3660.0,7866
+Place André Malraux,"48.86393,2.33562",19,8692.0,7863
+Bourg l'Abbé - Saint-Martin,"48.86393,2.35241",42,12254.0,7866
+Mairie du 16ème,"48.86394,2.27660",35,6279.0,7866
+Française - Etienne Marcel,"48.86405,2.34759",37,9907.0,7866
+Mûriers - Père Lachaise,"48.86413,2.39165",20,5256.0,7819
+Saint-Maur - République,"48.86419,2.37832",38,10846.0,7829
+Résistance - Hoche,"48.86427,2.43578",30,5543.0,7866
+Gambetta - Père Lachaise,"48.86430,2.39823",29,11021.0,7832
+Louis Lumière - Porte de Bagnolet,"48.86431,2.41052",20,3970.0,7866
+Flandrin - Henri Martin,"48.86433,2.27242",18,4228.0,7866
+Mairie du 3ème,"48.86446,2.36176",32,14936.0,7866
+Champeaux - Gallieni,"48.86446,2.41618",50,6378.0,7866
+Temple - Jean-Pierre Timbaud,"48.86447,2.36606",36,8441.0,7727
+Parmentier - République ,"48.86450,2.37501",50,10602.0,7866
+Etienne Marcel - Montorgueil,"48.86451,2.34620",28,11207.0,7866
+Grand Prieuré - Crussol,"48.86466,2.36923",49,11474.0,7813
+Jacquard - Ternaux ,"48.86466,2.37316",39,12550.0,7866
+Porte de Bagnolet,"48.86471,2.40834",33,6192.0,7866
+Alger - Rivoli,"48.86477,2.32945",21,8275.0,7866
+Longchamp - Place d'Iéna,"48.86492,2.29267",40,7250.0,7866
+Place de la Reine Astrid,"48.86492,2.30255",58,10167.0,7866
+Place François Mitterand,"48.86493,2.44296",34,5607.0,7866
+Pelleport - Belgrand,"48.86500,2.40398",15,6972.0,7866
+Montmartre - Etienne Marcel,"48.86502,2.34507",16,9693.0,7866
+Sorbier - Gasnier-Guy,"48.86522,2.39366",34,6842.0,7866
+Marceau - Président Wilson,"48.86524,2.30025",32,7885.0,7866
+Greneta - Sebastopol,"48.86524,2.35167",32,12573.0,7798
+Mairie du 20ème,"48.86530,2.39907",27,456.0,738
+Place du Canada,"48.86535,2.31019",40,8055.0,7866
+Oberkampf - République,"48.86545,2.37603",24,11313.0,7866
+Saint-Honoré - 29 juillet,"48.86557,2.33057",20,8330.0,7866
+Turbigo - Réaumur,"48.86557,2.35642",31,15113.0,7866
+Temple - Charlot,"48.86571,2.36527",45,7927.0,7737
+Belles Feuilles - Place de Mexico,"48.86580,2.28292",23,4581.0,7866
+Richard Lenoir - Jean-Pierre Timbaud,"48.86580,2.36934",36,9593.0,7813
+Benjamin Godard - Victor Hugo,"48.86598,2.27572",35,5746.0,7866
+Place des Victoires,"48.86604,2.34203",24,8402.0,7866
+Sainte-Elisabeth - Turbigo,"48.86610,2.35965",33,13060.0,7866
+Saint-Denis - Réaumur,"48.86611,2.35078",32,11851.0,7866
+Cambon - Rivoli,"48.86614,2.32518",40,12864.0,7866
+Square des Amandiers,"48.86616,2.38913",12,5822.0,7866
+Bachaumont - Montmartre,"48.86617,2.34498",33,9701.0,7866
+Pierre Levée - Fontaine Timbaud,"48.86633,2.37112",23,11658.0,7815
+Saint-Didier - Raymond Poincaré,"48.86642,2.28586",17,5126.0,7866
+Thérèse - Opéra,"48.86648,2.33443",25,8311.0,7866
+Ménilmontant - Oberkampf,"48.86662,2.38301",40,16392.0,7866
+Richard Lenoir - Republique,"48.86672,2.36925",58,8536.0,7818
+Petit Palais,"48.86677,2.31577",43,7316.0,7866
+Ventadour - Opéra,"48.86681,2.33439",27,7770.0,7866
+Place de la République - Voltaire,"48.86683,2.36548",19,10771.0,7562
+François 1er - Montaigne,"48.86689,2.30668",29,6653.0,7866
+Chabanais - Petits Champs,"48.86704,2.33672",30,5664.0,6651
+Square Pierre Lazareff,"48.86714,2.34839",17,12118.0,7866
+Place de la République - Temple,"48.86721,2.36355",18,13757.0,7547
+Mairie du 2ème,"48.86722,2.34046",28,5362.0,7866
+Villiers de l'Isle Adam - Pyrénées,"48.86736,2.39622",20,7216.0,7866
+Galilée - Kléber,"48.86741,2.29078",33,7096.0,7866
+Pont de Suresnes,"48.86742,2.22589",52,6494.0,7866
+Square Emile - Chautemps,"48.86743,2.35364",25,10771.0,7795
+Cléry - Montmartre,"48.86746,2.34452",44,11070.0,7866
+Lieutenant Chauré - Etienne Marey,"48.86746,2.40597",20,4252.0,7866
+Danielle Casanova - Opéra,"48.86764,2.33339",20,8044.0,7866
+Caire - Dussoubs,"48.86785,2.34936",40,8914.0,7866
+Romainville - Vaillant-Couturier,"48.86785,2.44675",38,4944.0,7866
+Faubourg Du Temple - Republique,"48.86787,2.36490",38,16370.0,7555
+Parmentier - Fontaine au Roi,"48.86788,2.37271",48,14687.0,7691
+Gambetta - Hôpital Tenon,"48.86793,2.40098",35,9694.0,7826
+Jean-Pierre Timbaud - Vaucouleurs,"48.86794,2.37789",47,9182.0,4747
+Victor Hugo - La Pompe,"48.86795,2.28146",41,8882.0,7866
+Etienne Dolet - Place Maurice Chevalier,"48.86798,2.38514",33,7852.0,7866
+Le Vau - Maurice Bertaux,"48.86803,2.41103",25,4115.0,7866
+Bassano -  Iéna,"48.86814,2.29615",15,4108.0,7866
+Réaumur - Montmartre,"48.86823,2.34383",19,6465.0,7866
+Danielle Casanova - Place Vendôme,"48.86827,2.33048",37,10577.0,7866
+Bibliothèque Nationale,"48.86829,2.33809",17,5812.0,7866
+Jules Ferry - Faubourg du Temple Paris,"48.86840,2.36789",58,15026.0,7813
+Mairie de Bagnolet,"48.86842,2.41796",28,6663.0,7866
+René Boulanger - Lancry,"48.86854,2.36000",62,13292.0,7816
+Sorbier - Ménilmontant,"48.86854,2.38977",24,9052.0,7866
+Suresnes - Muette à Neuilly,"48.86857,2.26600",30,4400.0,7866
+Porte Saint-Martin,"48.86860,2.35570",35,11551.0,7866
+Aboukir - Alexandrie,"48.86868,2.35020",21,8344.0,7866
+Place Du Général De Gaulle,"48.86876,2.43299",26,4959.0,7866
+Flandrin - Longchamp,"48.86878,2.27435",42,4333.0,4061
+18 juin 1940 - Buzenval,"48.86881,2.18543",25,719.0,7866
+Marceau - Chaillot,"48.86883,2.29900",21,4577.0,7866
+Belleville - Couronnes,"48.86883,2.38099",50,11000.0,7866
+Filles Saint-Thomas - Place de la Bourse,"48.86890,2.33975",58,12041.0,7866
+Boyer - Ménilmontant,"48.86890,2.39198",19,6204.0,7866
+Bourse du Travail,"48.86898,2.36234",17,10888.0,7694
+Jeûneurs - Mulhouse,"48.86900,2.34693",28,9450.0,7866
+Daunou - Louis le Grand,"48.86911,2.33251",17,6253.0,7866
+Porte de Ménilmontant,"48.86915,2.40932",15,4318.0,7866
+Parmentier - Abel rabaud,"48.86921,2.37169",53,12434.0,7866
+Place de la Madeleine - Royale,"48.86923,2.32442",26,11331.0,7866
+Lauriston - Copernic,"48.86926,2.28992",19,1216.0,2534
+Pyrénées - Ménilmontant,"48.86933,2.39508",26,6826.0,7866
+Haxo - Surmelin,"48.86944,2.40540",21,4976.0,7866
+Marignan - Champs-Elysées,"48.86950,2.30661",35,5337.0,7866
+Paul Signac - Aristide Briand,"48.86950,2.45023",35,4843.0,7866
+François 1er - Lincoln,"48.86952,2.30243",31,4758.0,7866
+Strasbourg - Saint-Denis,"48.86960,2.35429",16,11596.0,7787
+Jean Mermoz - Champs-Elysées,"48.86969,2.31073",33,9074.0,7866
+Godot de Mauroy - Madeleine,"48.86979,2.32635",22,9754.0,7866
+Choiseul - Quatre Septembre ,"48.86994,2.33600",44,8909.0,7866
+Mazagran - Bonne Nouvelle,"48.87005,2.35112",25,8462.0,7866
+Pierre Charron - Champs-Elysées,"48.87010,2.30435",32,7059.0,7866
+Square des Saint-Simoniens,"48.87018,2.39673",25,6052.0,7866
+Raymond Poincaré - Place Victor Hugo,"48.87031,2.28507",25,6241.0,7866
+Saint-Marc - Feydeau,"48.87031,2.34198",37,6739.0,7866
+Henri Chevreau - Couronnes,"48.87033,2.38878",27,7074.0,7866
+Georges V - François 1er,"48.87034,2.30082",22,2865.0,7866
+Parc de Belleville - Julien Lacroix,"48.87035,2.38422",26,6030.0,7866
+Malesherbes - Place de la Madeleine,"48.87041,2.32324",67,14965.0,7866
+George V - Christophe Colomb,"48.87046,2.30104",24,4676.0,7866
+Colisée - Champs-Elysées,"48.87048,2.30762",24,2918.0,6326
+Louis le Grand - Italiens,"48.87051,2.33405",33,9770.0,7866
+Ménilmontant - Pelleport,"48.87068,2.39896",19,6047.0,7866
+Cité Riverin - Château d'Eau ,"48.87070,2.35874",18,9880.0,7866
+Université Paris Dauphine,"48.87071,2.27487",70,3780.0,3741
+Pierre et Marie Curie - Julien Grimau,"48.87071,2.42410",18,2051.0,7866
+Hauteville - Bonne Nouvelle,"48.87077,2.34965",17,9946.0,7866
+Uzès - Montmartre,"48.87079,2.34310",29,7719.0,7866
+Verdun - Place Henri IV,"48.87080,2.22770",26,3512.0,7866
+Crevaux - Bugeaud,"48.87081,2.28115",31,3178.0,7866
+Saint-Fiacre - Poissonière,"48.87083,2.34592",35,9007.0,7866
+Metz - Faubourg Saint-Denis,"48.87089,2.35352",48,15939.0,7866
+Place Jacques Bonsergent,"48.87095,2.36120",33,14671.0,7866
+Ramponeau - Belleville,"48.87103,2.37906",44,9606.0,7866
+Alibert - Jemmapes,"48.87104,2.36610",60,15851.0,7866
+Portugais - Kléber,"48.87121,2.29373",26,5295.0,7866
+Gambetta - Saint Fargeau,"48.87124,2.40391",24,7090.0,7825
+Mairie de Rosny-sous-Bois,"48.87126,2.48658",30,1877.0,7866
+Vivienne - Montmartre,"48.87135,2.34146",39,10173.0,7866
+Paul Valery - Victor Hugo,"48.87137,2.28871",35,4129.0,7866
+Parmentier - Hôpital Saint-Louis,"48.87138,2.36990",43,9814.0,7866
+Boétie - Ponthieu,"48.87142,2.30768",33,7464.0,7866
+Favart - Italiens,"48.87145,2.33829",17,6266.0,7866
+Matignon - Faubourg Saint-Honoré,"48.87148,2.31398",36,8028.0,7866
+Rougemont - Poissonnière,"48.87161,2.34587",30,8775.0,7866
+Marseille - Beaurepaire,"48.87162,2.36393",55,15539.0,7866
+Galilée - Vernet,"48.87172,2.29854",17,3356.0,7866
+Buisson Saint-Louis - Saint-Maur,"48.87175,2.37225",19,9521.0,7866
+Champs-Elysees - Bassano,"48.87181,2.30024",25,3555.0,4615
+Laffitte - Italiens,"48.87182,2.33720",33,7300.0,7866
+Piat - Parc de Belleville,"48.87196,2.38498",21,6097.0,7866
+Pyrénées - Emmery,"48.87201,2.39204",40,8212.0,7866
+Mairie du 10ème,"48.87209,2.35758",19,9856.0,7866
+Boudreau - Auber,"48.87219,2.32942",14,8460.0,7866
+Enghien - Faubourg Poissonnière,"48.87242,2.34840",16,4323.0,4622
+Chaussée d'Antin - Haussmann,"48.87243,2.33359",28,8303.0,7866
+Saint-Fargeau - Mortier,"48.87267,2.40791",33,5897.0,7866
+Villette - Belleville,"48.87269,2.37646",48,14370.0,7866
+Balzac - Champs Elysées,"48.87270,2.30020",30,3655.0,7866
+Traktir - Foch,"48.87276,2.29155",22,4508.0,7866
+Claude Vellefaux - Hôpital Saint-Louis,"48.87286,2.37007",32,9484.0,7866
+Petites Ecuries - Faubourg Saint-Denis,"48.87287,2.35422",28,17075.0,7866
+Commandant Rivière,"48.87293,2.30980",27,9348.0,7866
+Mathurins - Auber,"48.87299,2.32950",36,9590.0,7866
+Rampal - Belleville,"48.87302,2.37991",17,7749.0,7866
+Evariste Galois,"48.87309,2.41334",30,5380.0,7866
+Vinaigriers - Magenta,"48.87312,2.35931",25,8757.0,7866
+Square Louis XVI,"48.87320,2.32366",29,7326.0,7866
+Mairie du 9ème,"48.87327,2.34075",24,9144.0,7866
+Borrégo - Gambetta,"48.87330,2.40141",25,5547.0,7866
+Taitbout - La Fayette,"48.87333,2.33526",53,10178.0,7866
+Rossini - Laffitte,"48.87335,2.33798",33,6692.0,7866
+Arsène Houssaye - Champs-Elysées,"48.87341,2.29779",29,5805.0,7866
+Roquépine - Malesherbes,"48.87345,2.32040",37,9545.0,7866
+Lamennais - Washington ,"48.87353,2.30344",26,5212.0,7866
+Pergolèse - Marbeau,"48.87357,2.28151",27,3877.0,7866
+Square de la rue Pixérécourt,"48.87368,2.39603",15,5282.0,7866
+Miromesnil - La Boétie,"48.87372,2.31585",35,9864.0,7866
+Geoffroy - Marie,"48.87378,2.34451",20,11767.0,7866
+Jeanne Hornet - Girardot,"48.87380,2.42782",29,4789.0,7866
+Gardenat-Lapostol - Velettes,"48.87387,2.22418",20,1062.0,7866
+Artois - Berri,"48.87394,2.30643",23,5306.0,7866
+Petites Ecuries - Faubourg Poissonnière,"48.87397,2.34839",18,10812.0,7866
+Chateaubriand - Friedland,"48.87401,2.29992",31,1651.0,7866
+Jourdain - Place des Grandes Rigoles,"48.87403,2.38959",22,8173.0,7866
+Belleville - Pyrénées,"48.87419,2.38600",42,8358.0,7866
+Rome - Provence,"48.87423,2.32557",30,8873.0,7866
+Provence - Chaussée d'Antin,"48.87428,2.33298",25,7807.0,7866
+Lucien Sampaix - Récollets,"48.87433,2.36212",46,7455.0,6685
+Sambre et Meuse - Villette,"48.87441,2.37381",25,8987.0,7866
+Caumartin - Provence,"48.87442,2.32847",22,10438.0,7866
+Noisy le Sec - Jean-Baptiste Clément,"48.87452,2.41528",22,4306.0,7866
+Gare de l'Est - Fidélité,"48.87458,2.35680",15,9286.0,7866
+Place Georges Guillaumin,"48.87475,2.30177",29,4172.0,7866
+Berri - Haussmann,"48.87475,2.30830",35,7065.0,7866
+Gare Saint-Lazare - Isly,"48.87478,2.32652",27,9157.0,7866
+Granges aux Belles - Hôpital Saint-Louis,"48.87479,2.36667",60,11740.0,7866
+Hoche - Tilsitt,"48.87484,2.29713",33,3001.0,7092
+Paradis - Hauteville,"48.87500,2.35228",31,10491.0,7866
+Claude Vellefaux - Sambre et Meuse,"48.87502,2.37048",34,6670.0,7866
+Récollets - Square Villemin,"48.87503,2.35980",17,3233.0,6685
+Victoire - Chaussée d'Antin,"48.87507,2.33167",24,7050.0,7866
+Square Simon Bolivar,"48.87509,2.38263",24,7296.0,7866
+Victoire - Laffitte,"48.87514,2.33812",20,5857.0,7866
+Pergolèse - Malakoff,"48.87521,2.28428",38,4104.0,7866
+Faubourg Montmartre - La Fayette,"48.87525,2.34085",35,11501.0,7866
+Route de Sèvres - Porte de Bagatelle,"48.87526,2.24942",66,6174.0,7866
+Commandant Charcot - Bretteville,"48.87531,2.25585",36,4737.0,7866
+Joseph Sansboeuf - Saint Lazare,"48.87532,2.32290",18,6312.0,7866
+Sadi Carnot - François Mitterrand ,"48.87533,2.42416",27,4195.0,7866
+Square Alban Satragne,"48.87534,2.35588",30,7309.0,7866
+Gambetta - Tourelles,"48.87534,2.40599",20,4932.0,7823
+Beaujon - Wagram,"48.87535,2.29644",29,7152.0,7866
+Messine - Place Du Pérou,"48.87545,2.31551",12,5611.0,7866
+Lassus - Delouvain,"48.87550,2.38903",20,5512.0,7866
+Marcel Pourtout - Édouard Manet ,"48.87556,2.16560",24,1245.0,7866
+Belleville -  Pré Saint-Gervais,"48.87557,2.39305",21,5734.0,7866
+Cadet - La Fayette,"48.87560,2.34357",19,9021.0,7866
+Belleville - Télégraphe,"48.87560,2.39955",41,7006.0,7866
+Gare de l'Est - Faubourg-Saint-Martin,"48.87564,2.35946",32,9688.0,7866
+Gare Saint-Lazare - Cour du Havre,"48.87567,2.32656",45,22544.0,7866
+Bleue - Trévise,"48.87579,2.34729",30,11438.0,7866
+Rocher - Laborde,"48.87590,2.32262",65,8321.0,7866
+Boissière - Etienne Dolet,"48.87611,2.46773",21,2406.0,7866
+Grande Armée - Brunel,"48.87612,2.28812",62,7047.0,7866
+Bertie Albrecht - Hoche,"48.87614,2.30130",32,5204.0,7866
+Granges aux Belles,"48.87614,2.36808",27,8950.0,7866
+Gare de l'Est - Verdun,"48.87616,2.36091",14,6562.0,7866
+Saint-Augustin,"48.87620,2.31979",31,7658.0,7866
+Demi-Lune - Aristide Briand,"48.87626,2.45628",20,4198.0,7866
+Jules Guesde - Laennec,"48.87629,2.50069",19,566.0,7866
+Gare de l'Est - Place du 11 Novembre 1918,"48.87633,2.35855",40,10870.0,7866
+Mahatma Gandhi,"48.87636,2.26421",26,2294.0,7866
+Taitbout - Châteaudun,"48.87638,2.33536",39,9806.0,7866
+Magenta - Chabrol,"48.87650,2.35610",24,12850.0,7866
+Manin - Simon Bolivar,"48.87650,2.37941",26,7383.0,7866
+Bienfaisance - Place de Narvik,"48.87660,2.31298",36,8040.0,7866
+Solitaires - Place des Fêtes,"48.87660,2.39177",29,5762.0,7866
+Belleville - Porte des Lilas,"48.87660,2.40477",32,5312.0,7866
+Lamartine - Faubourg Montmartre,"48.87661,2.33977",32,12787.0,7866
+Square Montholon,"48.87662,2.34576",21,7920.0,7866
+Londres - Place d'Estienne d'Orves,"48.87669,2.33054",25,6369.0,7866
+Rochechouart lamartine,"48.87672,2.34439",24,13034.0,7866
+Malakoff - Place de la Porte Maillot,"48.87673,2.28346",31,4034.0,7866
+Saint-Lazare - Place d'Estienne d'Orves,"48.87683,2.33291",39,9423.0,7866
+Simon Bolivar - Henri Turot,"48.87689,2.37445",22,6212.0,7866
+Chabrol - d'Hauteville,"48.87702,2.35132",11,9498.0,7866
+Gare Saint-Lazare - Stockholm,"48.87713,2.32242",32,7411.0,7866
+Chemin Vert - Fraternité,"48.87714,2.44616",20,3135.0,7866
+Place du Maquis du Vercors,"48.87732,2.40838",31,4094.0,7841
+Marché Saint-Quentin,"48.87736,2.35451",15,5362.0,7866
+Carducci - Place Hannah Arendt,"48.87744,2.38607",27,6275.0,7866
+Lisbonne - Monceau,"48.87746,2.30969",33,7907.0,7866
+Jemmapes - Ecluses Saint-Martin ,"48.87749,2.36601",15,10249.0,7866
+Mac-Mahon - Brey,"48.87753,2.29451",25,8457.0,7866
+Place du Colonel Fabien,"48.87757,2.36988",27,9571.0,7866
+Bellefond - Poissonnière,"48.87760,2.34846",17,8428.0,7866
+Gare Saint-Lazare - Place de Budapest,"48.87775,2.32734",44,9049.0,7866
+Porte Maillot - Pereire,"48.87777,2.28444",52,6156.0,7866
+Saint Georges - d'Aumale,"48.87779,2.33743",23,5929.0,7866
+Choron - Martyrs,"48.87785,2.33967",17,8005.0,7866
+Pré Saint-Gervais - Lilas,"48.87787,2.39591",28,6575.0,7866
+André Maurois - Joseph et Marie Hackin,"48.87790,2.27896",29,3997.0,7866
+Mairie du 8ème ,"48.87793,2.31826",14,5433.0,7866
+Botzaris - Parc des Buttes Chaumont,"48.87795,2.38146",20,5625.0,7866
+Londres - Amsterdam,"48.87803,2.32648",23,4945.0,7866
+Frères Flavien - Porte des Lilas,"48.87810,2.41105",23,3670.0,7866
+Athènes - Clichy,"48.87811,2.32956",20,4979.0,7866
+Maurice Payret-Dortail,"48.87812,2.22336",22,1389.0,7866
+Place Saint-Ferdinand,"48.87816,2.28852",38,5771.0,7866
+Hôtel de Ville de Rueil-Malmaison,"48.87819,2.18172",20,2304.0,7866
+Courcelles - Place des Ternes,"48.87820,2.29929",31,5197.0,7866
+Milton - Manuel,"48.87825,2.34118",22,6209.0,7866
+Bellefond - Maubeuge,"48.87826,2.34526",31,7272.0,7866
+Alfred de Vigny - Place du Général Brocard,"48.87836,2.30525",33,6862.0,7866
+Place des Ternes,"48.87844,2.29773",46,10658.0,7866
+Porte des Lilas - Faidherbe,"48.87862,2.41203",39,4617.0,7866
+Richard Wallace - Place du 8 Mai 1945,"48.87867,2.24203",30,8139.0,7866
+Jardin d'Acclimatation,"48.87877,2.27077",33,4250.0,7866
+Gare du Nord - Place de Valenciennes,"48.87909,2.35424",25,11251.0,7866
+Tour d'Auvergne - Rodier,"48.87916,2.34370",17,5982.0,7866
+Manin - Secrétan,"48.87917,2.37880",20,8238.0,7866
+Place Tristan Bernard ,"48.87920,2.29154",28,8483.0,7866
+Abbeville - Faubourg Poissonnière,"48.87922,2.34915",14,8453.0,7866
+Mairie des Lilas,"48.87928,2.41602",47,6702.0,7866
+Toudouze - Clauzel,"48.87930,2.33736",21,8793.0,7866
+Gare de l'Est - Chateau Landon,"48.87931,2.36242",59,12386.0,7866
+Louis Blanc - Jemmapes,"48.87933,2.36845",31,5140.0,7432
+Dunkerque - Alsace,"48.87935,2.35838",18,5703.0,7866
+Alexandre Parodi - Quai de Valmy,"48.87936,2.36660",24,7331.0,7866
+Jean-Baptiste Pigalle - La Bruyere,"48.87940,2.33371",17,7263.0,7866
+Chazelles - Courcelles ,"48.87941,2.30345",35,8322.0,7866
+Monceau - Malesherbes ,"48.87951,2.31455",38,8905.0,7866
+Liège - Moscou,"48.87954,2.32646",17,6680.0,7866
+Gare du Nord - Denain,"48.87960,2.35447",20,11763.0,7866
+Botzaris - Crimée,"48.87960,2.38879",21,8210.0,7866
+Gare du Nord - Faubourg Saint-Denis,"48.87961,2.35684",32,16139.0,7866
+Pereire - Ternes,"48.87974,2.28801",48,4469.0,7866
+Edouard Pailleron - Simon Bolivar ,"48.87980,2.37484",24,5904.0,7866
+Condorcet - Turgot,"48.87985,2.34523",20,8741.0,7866
+Route de la Muette - Porte de Neuilly,"48.87989,2.25877",50,4521.0,7866
+Charles de Gaulle - Sablonville,"48.87992,2.27638",26,4268.0,7866
+Naples - Rome,"48.87996,2.32136",26,6668.0,7866
+Mairie de quartier du Plateau - Mont-Valérien,"48.87999,2.20724",20,681.0,7866
+Hôpital Robert Debré,"48.88005,2.40087",33,6185.0,7866
+Moncey - Blanche,"48.88007,2.33108",17,5933.0,7866
+Belidor - Gouvion-Saint-Cyr,"48.88022,2.28547",40,2651.0,7866
+Gare du Nord - Dunkerque,"48.88042,2.35276",29,11173.0,7866
+Serrurier,"48.88049,2.39806",18,5191.0,7866
+Edouard Pailleron - Bouret,"48.88060,2.37695",27,6868.0,7866
+Dunkerque - Rocroy,"48.88073,2.35146",24,5397.0,7866
+Clapeyron - Moscou,"48.88079,2.32482",15,7361.0,7866
+Faubourg Poissonnière - Dunkerque,"48.88088,2.34993",30,7021.0,7866
+Charles de Gaulle - Orléans ,"48.88092,2.27158",26,4500.0,7866
+Gare du Nord - Saint-Vincent de Paul,"48.88096,2.35243",24,4273.0,7866
+Calmette,"48.88105,2.42499",32,3207.0,7866
+Parc Monceau,"48.88108,2.30955",18,8324.0,7866
+Lallier - Trudaine ,"48.88109,2.34082",29,10249.0,7866
+Gare du Nord - Demarquay,"48.88115,2.35841",30,6750.0,7866
+Gare Rosny-Bois-Perrier,"48.88115,2.48044",36,1585.0,7866
+Villiers - Batignolles,"48.88125,2.31654",23,11121.0,7866
+Marché Secrétan,"48.88125,2.37346",26,11844.0,7866
+Parme - Clichy,"48.88127,2.32820",24,6229.0,7866
+Quai de Valmy,"48.88127,2.36819",26,5632.0,7866
+Square du Théâtre du Garde-Chasse,"48.88129,2.42012",50,4196.0,7866
+Pierre Demours - Laugier,"48.88131,2.29485",37,8230.0,7866
+Charles de Gaulle - Louis-Philippe,"48.88162,2.27128",28,6780.0,7866
+Jardin Marguerite Long,"48.88170,2.28366",22,3460.0,7866
+Alexander Fleming - Belvédère,"48.88179,2.40306",31,2260.0,7866
+Bayen - Pereire,"48.88180,2.29211",22,7350.0,7866
+Batignolles - Rome,"48.88182,2.32026",15,6394.0,7435
+Place de Rhin et Danube,"48.88193,2.39259",17,5635.0,7866
+Gare du Nord - Hôpital Lariboisière,"48.88195,2.35234",49,8223.0,7866
+Jouffroy d'Abbans - Wagram,"48.88197,2.30113",40,9528.0,7866
+Louis Blanc - Aqueduc ,"48.88203,2.36356",37,12531.0,7866
+Dunkerque - Trudaine,"48.88215,2.34633",16,6462.0,7866
+Batignolles - Beudant,"48.88216,2.31985",44,8676.0,7866
+Rochechouart - Martyrs,"48.88219,2.34055",20,9999.0,7866
+Douai - Pierre Fontaine,"48.88229,2.33324",25,8328.0,7866
+Phalsbourg - Villiers,"48.88242,2.30905",20,8133.0,7866
+De Toqueville - Terrasse,"48.88243,2.31400",30,7752.0,7866
+Faubourg Poissonniere - Delta,"48.88256,2.34975",36,6843.0,7866
+Mairie du 19ème,"48.88256,2.38126",27,8616.0,7866
+Madeleine Michelis - Roule,"48.88260,2.27736",25,7901.0,7866
+Square d'Anvers,"48.88263,2.34488",33,9246.0,7866
+Lally-Tollendal - Armand Carrel,"48.88270,2.37472",28,6368.0,7866
+Place Pigalle,"48.88276,2.33616",21,9676.0,7866
+Guersant - Gouvion-Saint-Cyr,"48.88288,2.28767",39,8335.0,7866
+Gérando - Rochechouart,"48.88294,2.34648",21,6432.0,7866
+Pierret - Madrid,"48.88298,2.26013",28,4974.0,7866
+Batignolles - Abel Truchet,"48.88310,2.32383",28,6475.0,7866
+Manin - Crimée,"48.88312,2.38637",23,10184.0,7866
+Charles de Gaulle - Graviers,"48.88315,2.26488",28,2563.0,7866
+Douai - Bruxelles,"48.88321,2.33084",27,7705.0,7866
+Quai de la Loire - Jean Jaurès,"48.88340,2.37107",16,10603.0,7866
+Batignolles - Place de Clichy,"48.88347,2.32649",47,11132.0,7866
+Place Madeleine Daniélou,"48.88350,2.28201",42,5231.0,7866
+Place de Lévis,"48.88355,2.31319",48,8594.0,7866
+Marcelle - Thalie,"48.88355,2.41379",20,1371.0,7866
+Clichy - Place Blanche,"48.88360,2.33322",20,10807.0,7866
+Pereire - Rennequin,"48.88365,2.29524",23,6434.0,7866
+Square Edmond Pépin,"48.88366,2.40335",30,7499.0,7866
+Ambroise Rendu - Porte Brunet,"48.88367,2.39573",17,4052.0,7866
+Courcelles - Pierre Demours,"48.88377,2.29858",26,6523.0,7866
+Melun - Jean Jaurès,"48.88378,2.37648",28,8065.0,7866
+Aqueduc - Villette,"48.88389,2.36720",28,10005.0,7866
+Louis Blanc - La Chapelle,"48.88401,2.35993",21,8001.0,7866
+Clichy - Douai,"48.88412,2.32873",32,14149.0,7866
+Tardieu - Chappe,"48.88415,2.34185",18,6965.0,7866
+Mairie du 17ème,"48.88416,2.32208",24,8366.0,7866
+Gare du Nord - La Chapelle,"48.88418,2.35611",18,5510.0,7866
+Jouffroy d'Abbans - Villiers,"48.88422,2.30565",34,6420.0,7866
+Jean Jaurès - Jules Jacquemin,"48.88433,2.40829",24,3971.0,7866
+Charles de Gaulle - Madrid,"48.88443,2.26080",22,6770.0,7866
+Quai de la Seine,"48.88449,2.37039",24,6752.0,7866
+Place des Abbesses,"48.88454,2.33869",12,7232.0,7866
+Laumière - Petit,"48.88467,2.38004",34,11934.0,7866
+Manin - Carrières d'Amérique,"48.88467,2.39197",20,5475.0,7866
+Square Louise Michel,"48.88469,2.34414",36,7249.0,7866
+Chartres - La Charbonnière,"48.88476,2.35347",34,3875.0,7866
+Jessaint - Marx Dormoy,"48.88485,2.35893",30,6984.0,7866
+Toqueville - Cardinet,"48.88490,2.31094",33,8796.0,7866
+Mairie de Neuilly sur Seine,"48.88495,2.26770",31,7864.0,7866
+Jouffroy d'Abbans - Malesherbes,"48.88501,2.30707",27,10506.0,7866
+Mairie de Romainville,"48.88511,2.43568",17,5248.0,7866
+Clignancourt - Sofia,"48.88512,2.34719",19,9481.0,7866
+Goutte d'or - Barbès,"48.88512,2.34970",20,9630.0,7866
+Place du Maréchal Juin - Péreire,"48.88526,2.29829",46,9182.0,7866
+Véron - Lepic,"48.88526,2.33456",23,6739.0,7866
+Legendre - Dulong,"48.88533,2.31642",23,8060.0,7866
+Place de la Porte de Champerret,"48.88562,2.29078",28,6539.0,7866
+Berthier - Place Stuart Merril,"48.88593,2.29335",37,6167.0,7866
+Petit - Georges Thill,"48.88603,2.38958",23,5955.0,7866
+Jean-François Lépine - Stephenson,"48.88611,2.35686",22,7033.0,7866
+Bridaine - Lamandé,"48.88621,2.32062",29,6933.0,7866
+Tanger - Place du Maroc,"48.88625,2.36893",19,6961.0,7866
+Euryale Dehaynin - Loire,"48.88625,2.37746",30,8022.0,7866
+Gabriel Péri - Francisco Ferrer,"48.88634,2.40734",18,4763.0,7866
+Lorraine - Jean Jaurès,"48.88639,2.38258",19,10067.0,7866
+Hautpoul - Jean Jaurès,"48.88639,2.38654",32,9271.0,7866
+Cimetière de Montmartre,"48.88647,2.33289",43,8001.0,7866
+Petit - Manin,"48.88651,2.39382",22,8738.0,7866
+Colmar - Victor Hugo,"48.88652,2.17396",32,2887.0,7866
+Jean Oestreicher - Porte de Champerret,"48.88656,2.28864",21,1244.0,7866
+Beffroy,"48.88659,2.26139",26,5571.0,7866
+Bineau - Louise Michel,"48.88666,2.28433",25,7246.0,7866
+Square Léon,"48.88667,2.35321",33,6412.0,7866
+Departement - Pajol,"48.88667,2.36136",19,9063.0,7866
+Pierre Ginier - Clichy,"48.88677,2.32623",16,8685.0,7866
+Seine - Flandre,"48.88679,2.37462",19,5346.0,7866
+Jardins d'Eole,"48.88697,2.36685",20,8089.0,7866
+Pereire - Place de Wagram,"48.88707,2.30411",46,7103.0,7866
+Gare de Pont-Cardinet,"48.88714,2.31449",34,10478.0,7866
+Damrémont - Caulaincourt,"48.88715,2.33259",18,5737.0,7866
+Poulet - Barbès,"48.88715,2.34906",20,10394.0,7866
+Lepic - Armée d'Orient,"48.88754,2.33431",24,5298.0,7866
+Victor Hugo - Bineau,"48.88758,2.27839",25,5433.0,7866
+Legendre - Nollet,"48.88774,2.32029",30,8956.0,7866
+Alfred Roll - Berthier,"48.88781,2.30010",34,5434.0,5704
+Etienne Jodelle - Saint Ouen,"48.88794,2.32612",33,8691.0,7866
+Flandre - Riquet,"48.88801,2.37376",21,9314.0,7866
+Brochant - Square des Batignolles ,"48.88819,2.31686",31,8639.0,7866
+Pereire - Saussure,"48.88823,2.31013",32,7179.0,7866
+Léon - Doudeauville,"48.88832,2.35357",13,7897.0,7866
+Stephenson - Doudeauville,"48.88854,2.35616",36,9670.0,7866
+Argenson - Château,"48.88856,2.26420",25,4081.0,7866
+Marie-Georges Picquart - Pereire,"48.88864,2.31117",32,3988.0,7866
+Anatole France - Louise Michel,"48.88873,2.28816",50,6868.0,7866
+Custine - Ramey,"48.88874,2.34695",41,11213.0,7866
+Place de l'Édit de Nantes,"48.88879,2.37850",30,11584.0,7866
+Reims - Raymond Pitet,"48.88880,2.29632",37,4145.0,7866
+Chanzy - Sud-Est,"48.88891,2.19563",25,2132.0,7866
+Legendre - Clichy,"48.88896,2.32253",40,10805.0,7866
+Thionville - Ourcq,"48.88918,2.38337",24,9731.0,7866
+Porte de Pantin,"48.88920,2.39502",33,11814.0,7866
+Centquatre,"48.88933,2.37079",41,10802.0,7866
+Candale - Mehul,"48.88939,2.41438",25,4057.0,7866
+Félix Ziem - Armand Gauthier,"48.88950,2.33339",25,6741.0,7866
+Guillaume Tell - Parc Henri Barbusse,"48.88959,2.41989",20,3230.0,7866
+Pajol - Riquet ,"48.88960,2.36285",47,9852.0,7866
+Caulaincourt - Place Constantin Pecqueur,"48.88968,2.33818",44,9143.0,7866
+Francoeur - Caulaincourt,"48.88999,2.34253",34,7929.0,7866
+Lemercier - Cardinet,"48.89010,2.31738",24,7393.0,7866
+Riquet - Marx Dormoy,"48.89021,2.36018",29,15324.0,7866
+Brochant - Clichy,"48.89033,2.31973",53,10630.0,7866
+Président Wilson - Jean Jaures,"48.89034,2.29207",27,8250.0,7866
+Porte d'Asnières,"48.89036,2.30363",36,11054.0,7866
+Château - Bineau,"48.89040,2.27011",23,4950.0,7866
+Marcadet - Barbès,"48.89045,2.34906",37,11384.0,7866
+Honoré d'Estienne d'Ovres - Grilles,"48.89056,2.40648",18,5358.0,7866
+Jules Guesde - Alsace,"48.89057,2.29508",25,9783.0,7866
+Quai de l'Oise - Aisne,"48.89062,2.38337",30,7820.0,7866
+Mathis - Flandre,"48.89064,2.37626",55,13799.0,7866
+Carpeaux - Place Jacques Froment,"48.89065,2.33094",19,8120.0,7866
+Marcadet - Ramey,"48.89088,2.34490",21,8273.0,7866
+Aubervilliers - Curial,"48.89088,2.36886",23,5527.0,7866
+Francoeur - Marcadet,"48.89104,2.34001",20,8112.0,7866
+St-Ouen - Lamarck,"48.89108,2.32674",45,10820.0,7866
+Hoche - Jean Lolive,"48.89110,2.40284",24,10852.0,7866
+Metz - Marne,"48.89116,2.38657",33,8011.0,7866
+Ordener - Poissonniers,"48.89121,2.35129",35,9593.0,7866
+Clignancourt - Ordener,"48.89146,2.34864",35,8232.0,7866
+Reims - Porte d'Asnières,"48.89183,2.30014",26,4395.0,7866
+Square Raymond Souplex,"48.89184,2.33543",52,10835.0,7866
+Place Paul Delouvrier,"48.89198,2.38513",26,5184.0,7866
+Voltaire - Anatole France,"48.89200,2.28426",27,6655.0,7866
+Jean Lolive - Parc Stalingrad,"48.89206,2.40917",23,4227.0,7866
+Mstislav Rostropovitch - Berthier,"48.89212,2.30923",18,3665.0,7866
+Guy Môquet - Compoint,"48.89214,2.32322",36,9286.0,7866
+Hôtel de Ville de Nanterre,"48.89237,2.20555",38,1841.0,7866
+Paul Bodin - Clichy,"48.89240,2.31714",34,7797.0,7866
+Poissonniers - Nord,"48.89251,2.35222",28,6270.0,7866
+Flandre - Ourcq,"48.89260,2.37909",30,10428.0,7866
+Théâtre des Amandiers - Palais des sports,"48.89265,2.21369",24,1127.0,7866
+Henri Ste-Claire Déville - Paul Héroult,"48.89266,2.17241",24,670.0,7866
+Guy Môquet - Saint-Ouen,"48.89278,2.32703",53,12157.0,7866
+Pajol - Place Herbert,"48.89278,2.36356",39,11843.0,7866
+Place de l'Eglise,"48.89281,2.41244",30,3390.0,7866
+Mairie du 18ème,"48.89294,2.34455",40,11750.0,7866
+Ruisseau - Ordener,"48.89299,2.34014",35,9731.0,7866
+Hôtel de Ville de Levallois Perret,"48.89314,2.28888",26,8313.0,7866
+Charles de Gaulle - Jean Lolive,"48.89326,2.41268",26,4546.0,7866
+Damrémont - Ordener,"48.89340,2.33627",30,9538.0,7866
+Paul Vaillant Couturier - Chaptal,"48.89348,2.27753",39,10057.0,7866
+Joseph Dijon - Ornano,"48.89374,2.34767",37,9604.0,7866
+Square des Epinettes,"48.89384,2.32595",20,6655.0,7866
+Delphine Seyrig - Général Leclerc,"48.89392,2.39790",53,7707.0,7866
+Benjamin Delessert - Jean Lolive,"48.89392,2.41798",21,3764.0,7866
+Championnet - Vauvenargues,"48.89402,2.33199",33,9685.0,7866
+Île de la Jatte,"48.89404,2.26663",23,5139.0,7866
+Crimée - Ourcq,"48.89410,2.37295",56,10251.0,7866
+Fragonard - Porte de Clichy,"48.89416,2.31439",56,14693.0,7866
+Gaston Roussel - Commune de Paris,"48.89432,2.43255",30,4168.0,7866
+Emile Blemont - Poteau,"48.89438,2.34151",39,10696.0,7866
+Flandre - Alphonse Karr,"48.89465,2.38187",26,8490.0,7866
+Jonquière - Docteur Paul Brousse,"48.89480,2.31871",40,10274.0,7866
+Ancien Canal - Hélène Brion,"48.89485,2.41883",23,5513.0,7866
+Tristan Tzara -  Tchaïkovski,"48.89490,2.36485",33,3772.0,7174
+Anatole France - Jean Lolive,"48.89499,2.42538",28,5284.0,7866
+Gare de Nanterre Ville,"48.89503,2.19579",43,3673.0,7866
+Rond-Point de la Chapelle,"48.89513,2.35997",49,11357.0,7866
+Championnet,"48.89536,2.34982",22,6735.0,7866
+Poissonniers - Championnet,"48.89543,2.35302",28,8279.0,7866
+Quai de l'Aisne - Général Leclerc,"48.89571,2.40057",27,8201.0,7866
+Pesaro - Préfecture,"48.89577,2.22391",22,2599.0,7866
+Place Albert Kahn,"48.89580,2.34559",46,9798.0,7866
+Jacques Kellner - Saint-Ouen,"48.89581,2.32790",45,8852.0,7866
+Navier - Epinettes,"48.89588,2.32268",36,7533.0,7866
+Cambrai - Benjamin Constant,"48.89595,2.38113",43,3000.0,7866
+Bessières - Porte de Clichy,"48.89612,2.31791",33,7294.0,7866
+Delizy - Louis Nadot,"48.89621,2.40946",23,5012.0,7866
+Leibniz - Jean Dollfus,"48.89633,2.33339",32,6116.0,7866
+Gaston Tessier - Rosa Parks RER,"48.89638,2.37437",37,9391.0,7866
+Cité des Sciences et de l'Industrie,"48.89660,2.38460",30,8960.0,7866
+Place Charles de Gaulle,"48.89664,2.25257",28,4647.0,7866
+Belliard - Damrémont,"48.89669,2.33802",34,7950.0,7866
+Gare de Clichy-Levallois ,"48.89680,2.29847",26,7912.0,7866
+Chancé Milly - Cimetière Communal Sud,"48.89687,2.30392",32,5343.0,7866
+Cesaria Evora - Rosa Parks,"48.89718,2.37452",40,1925.0,2580
+Place du Président Salvador Allende,"48.89731,2.40079",60,6538.0,7866
+Grands Moulins de Pantin,"48.89738,2.39600",50,3655.0,7866
+Porte de Clignancourt,"48.89749,2.34400",56,11935.0,7866
+Place Nelson Mandela,"48.89787,2.21828",30,1583.0,7866
+Arthur Ranc - Hôpital Bichat,"48.89787,2.33352",26,6199.0,7866
+Porte Pouchet-Bessières,"48.89788,2.32306",23,8258.0,7866
+Ney - Porte de Clignancourt ,"48.89789,2.34580",25,5620.0,7866
+Arche - Léonard de Vinci,"48.89791,2.23837",28,4889.0,7866
+Porte de Saint-Ouen - Bessières,"48.89792,2.32851",42,10736.0,7866
+Ney - Porte de Montmartre,"48.89792,2.33649",25,5378.0,7866
+Paul Vaillant-Couturier - Victor Hugo,"48.89820,2.29385",36,7089.0,7866
+Président Wilson - Baudin,"48.89827,2.28493",28,6744.0,7866
+Porte de la Villette,"48.89835,2.38615",27,5311.0,7866
+Pont de Levallois-bécon ,"48.89842,2.27913",50,6913.0,7866
+Porte d'Aubervilliers,"48.89860,2.36897",55,6702.0,7866
+Porte de Saint-Ouen - Henri Huchard,"48.89871,2.32954",26,10268.0,7866
+Ney - Charles Hermite,"48.89875,2.36458",20,3320.0,7866
+Square Claude Bernard,"48.89876,2.37533",30,11104.0,7866
+Neuilly - Petit,"48.89897,2.29628",16,2761.0,5572
+René Binet - Porte de Montmartre,"48.89905,2.33655",37,8561.0,7449
+Bertrand Sincholle - Henri Barbusse,"48.89926,2.30423",24,7938.0,7866
+Neuilly - Petit,"48.89929,2.29669",16,925.0,2294
+Gare de Courbevoie,"48.89939,2.25065",36,3611.0,7866
+Porte de Clignancourt - Ney,"48.89964,2.34432",40,11856.0,7866
+Paix - Verdun,"48.90050,2.26117",35,4963.0,7866
+Emile Reynaud - Porte de la Villette ,"48.90099,2.38870",22,9391.0,7866
+Université,"48.90136,2.21269",20,1881.0,7866
+Edith Cavell - Volta,"48.90162,2.26935",33,3917.0,7866
+Toffier Decaux - Cartier Bresson,"48.90165,2.40175",15,3498.0,7866
+Belfort - Victor Hugo,"48.90185,2.31727",24,6818.0,7866
+Morice - Général Leclerc,"48.90245,2.31289",25,9962.0,7866
+Madeleine Vionnet,"48.90252,2.37409",34,8531.0,7866
+Gabrielle Josserand - Edouard Vaillant,"48.90272,2.39333",25,9312.0,7866
+Jean-Baptiste Charcot - Sainte-Geneviève,"48.90311,2.27889",21,2186.0,7866
+Victor Hugo - Magasins Généraux,"48.90328,2.36807",34,2906.0,7866
+Mairie de Clichy,"48.90365,2.30594",51,11553.0,7866
+Madame de Sanzillon - Mozart,"48.90380,2.31874",22,8918.0,7866
+Gustave Eiffel - Parc des Impressionnistes,"48.90391,2.29469",30,3222.0,7866
+Bordier - Félix Faure,"48.90391,2.38301",48,5956.0,7866
+Joffre - Aigle,"48.90403,2.24510",20,1545.0,7866
+Adolphe Lalyre - Armand Silvestre,"48.90406,2.27342",40,4723.0,7866
+Guichet - Jean Jaurès,"48.90517,2.30238",28,7694.0,7866
+Parc Roger Salengro,"48.90530,2.31056",36,5572.0,7866
+Théâtre,"48.90577,2.23539",20,1630.0,7866
+Château - République,"48.90593,2.25363",20,2864.0,7866
+Kléber - National,"48.90633,2.23939",20,3549.0,7866
+Gare d'Asnières sur Seine,"48.90636,2.28351",24,6755.0,7866
+Proudhon - Président Wilson,"48.90644,2.35849",30,5362.0,7866
+République - Henri Barbusse,"48.90662,2.38943",32,8142.0,7866
+Mairie de La Garenne Colombes,"48.90664,2.24680",22,2596.0,7866
+Place du Front Populaire - George Sand,"48.90681,2.36454",35,9275.0,7866
+Jean Jaurès - Presles,"48.90713,2.39601",30,5028.0,7866
+Square Gilbert Thomain,"48.90717,2.26954",20,3619.0,7866
+Professeur René Leriche - Général Leclerc ,"48.90783,2.30789",50,10207.0,7866
+Félix Faure - Sadi Carnot,"48.90812,2.37862",33,4178.0,7866
+Wilson - Métallurgie,"48.90942,2.35844",28,5653.0,7866
+Gare de la Garenne-Colombes,"48.90975,2.23915",28,2608.0,7866
+Hôtel de Ville d'Asnières sur Seine,"48.90999,2.28824",30,7555.0,7866
+Claude Debussy - Marc Bloch,"48.91039,2.31178",28,4691.0,7786
+André Karman - République,"48.91040,2.38514",31,4999.0,7866
+Jean Jaurès - Ouvrières Pivéreuses,"48.91042,2.39958",20,4566.0,7866
+Waldeck Rochet - Germaine Tillon,"48.91106,2.36763",31,4510.0,7866
+Edouard Poisson - Victor Hugo,"48.91114,2.37927",30,6235.0,7866
+Gare des Vallées,"48.91318,2.25773",20,3677.0,7866
+Averroès - Aimé Césaire,"48.91405,2.41264",19,3363.0,7866
+Square Victor Basch,"48.91430,2.22892",20,3754.0,7866
+Fort d'Aubervilliers,"48.91502,2.40353",22,4857.0,7866
+Landy - Heurtault,"48.91510,2.37595",30,5160.0,7866
+Wilson - Landy,"48.91517,2.35763",40,5708.0,7866
+Anatole France - President Roosevelt,"48.91552,2.38141",29,7930.0,7866
+Bas - Gabriel Péri,"48.91586,2.29481",30,7259.0,7866
+Place aux Étoiles,"48.91836,2.35234",40,3498.0,7866
+Charles Tillon - Cimetière Communal,"48.91844,2.39356",31,4705.0,7866
+Parc Eli Lotar,"48.91845,2.37271",20,3429.0,7866
+Argenteuil - Voltaire,"48.91865,2.28141",16,5481.0,7866
+Stade de France,"48.91914,2.36207",44,6804.0,7866
+Gare RER les Grésillons,"48.91990,2.31458",22,4197.0,7866
+Carrefour Pleyel,"48.92034,2.34385",36,7000.0,7866
+Chausson - Gabriel Péri,"48.92189,2.29523",22,3920.0,7866
+Victor Hugo - Gare,"48.92313,2.26010",22,3652.0,7866
+Place du Cornillon - Stade de France,"48.92541,2.36444",34,4600.0,7866
+Parc Pierre Lagravère,"48.92650,2.23907",30,1921.0,7866
+Redoute - Les Courtilles,"48.92987,2.28367",32,3430.0,7866
+Place de la Porte de Paris,"48.93009,2.35640",40,5124.0,7866
+Gare du Stade,"48.93127,2.26038",20,1416.0,7866
+Lucien Lanternier - Le Luth,"48.93159,2.28898",27,1967.0,7866
+Franciade - Gabriel Péri,"48.93261,2.35595",26,3949.0,7866
+Gare RER de Saint-Denis,"48.93554,2.34715",40,6875.0,7866
+Basilique,"48.93627,2.35887",22,3929.0,7866
+Jules Guesdes - Carnot,"48.93828,2.35090",16,2244.0,7866
+Place du 8 mai 1945,"48.93888,2.35662",30,5052.0,7866
+Placette Grégoire Collas,"48.94342,2.24875",25,1086.0,7866
+Université,"48.94563,2.36383",24,2972.0,7866
+Hôtel de Ville d'Argenteuil,"48.94650,2.24964",30,1059.0,7866
+Gare d'Argenteuil,"48.94702,2.25690",40,1854.0,7866
